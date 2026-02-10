@@ -1,0 +1,55 @@
+{
+  "students": [
+    { "id": "satwik", "name": "Satwik", "avatarColor": "#2563EB" },
+    { "id": "vijit", "name": "Vijit", "avatarColor": "#DC2626" }
+  ],
+  "sessions": [
+    {
+      "id": "2026-01-18",
+      "date": "2026-01-18",
+      "title": "Session 1 — Split Step Fundamentals",
+      "summary": "Introductory session focused on building a strong split step foundation. Covered proper athletic posture, explosive push-off mechanics, and directional recovery patterns. No video recordings for this session.",
+      "drills": [
+        {
+          "name": "Ready Position & Resistance Band Work",
+          "description": "Half-squat athletic stance with resistance band lateral, forward, and backward movement patterns.",
+          "students": ["satwik", "vijit"],
+          "notes": "Stay on the balls of your feet — keep the band tension throughout"
+        },
+        {
+          "name": "Split Step Reaction — Drop & Catch",
+          "description": "Shuttle dropped from height; execute a split step and catch it before it lands.",
+          "students": ["satwik", "vijit"],
+          "notes": "Focus on timing the split step, not just catching the shuttle"
+        },
+        {
+          "name": "Bench Drop into Split Step",
+          "description": "Step off a low bench, land with a split step, then push off in a given direction.",
+          "students": ["satwik", "vijit"],
+          "notes": "The drop exaggerates the loading phase — feel the rhythm before adding speed"
+        },
+        {
+          "name": "Directional Recovery",
+          "description": "Shuttle thrown to mid-court; split step, read direction, recover, then move to the net.",
+          "students": ["satwik", "vijit"],
+          "notes": "Lead with the correct foot based on the direction you need to move"
+        }
+      ],
+      "tips": [
+        { "text": "The split step is not a jump — it's a quick, controlled drop that loads energy for an explosive push-off", "students": ["satwik", "vijit"] },
+        { "text": "Initiate your split step just before your opponent makes contact with the shuttle", "students": ["satwik", "vijit"] },
+        { "text": "Always return to the ready position with a split step after every shot", "students": ["satwik", "vijit"] },
+        { "text": "Land with one foot slightly ahead of the other to create a directional advantage", "students": ["satwik", "vijit"] }
+      ],
+      "videos": [
+        {
+          "title": "The Split Step in Badminton — Badminton Insight",
+          "url": "https://www.youtube.com/watch?v=gy4YZS5tGxE",
+          "type": "youtube",
+          "students": ["satwik", "vijit"]
+        }
+      ],
+      "tags": ["split step", "footwork", "fundamentals", "ready position", "reaction"]
+    }
+  ]
+}

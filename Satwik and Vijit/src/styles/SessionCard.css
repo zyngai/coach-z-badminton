@@ -1,0 +1,231 @@
+.session-card {
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  border-left: 3px solid var(--color-accent);
+  box-shadow: var(--shadow-sm);
+  margin-bottom: var(--space-md);
+  overflow: hidden;
+  transition: box-shadow var(--transition-normal);
+}
+
+.session-card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.session-card__header {
+  padding: var(--space-md) var(--space-lg);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  user-select: none;
+}
+
+.session-card__header:hover {
+  background: var(--color-surface-hover);
+}
+
+.session-card__header-left {
+  flex: 1;
+  min-width: 0;
+}
+
+.session-card__date {
+  font-size: var(--font-size-sm);
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.session-card__title {
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-text);
+  margin-top: 2px;
+}
+
+.session-card__chevron {
+  width: 24px;
+  height: 24px;
+  color: var(--color-text-secondary);
+  transition: transform var(--transition-normal);
+  flex-shrink: 0;
+}
+
+.session-card__chevron--open {
+  transform: rotate(180deg);
+}
+
+.session-card__body {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows var(--transition-normal);
+}
+
+.session-card__body--open {
+  grid-template-rows: 1fr;
+}
+
+.session-card__body-inner {
+  overflow: hidden;
+}
+
+.session-card__content {
+  padding: 0 var(--space-lg) var(--space-lg);
+}
+
+.session-card__summary {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-base);
+  margin-bottom: var(--space-lg);
+  line-height: 1.6;
+}
+
+.session-card__section {
+  margin-bottom: var(--space-lg);
+}
+
+.session-card__section:last-child {
+  margin-bottom: 0;
+}
+
+.session-card__section-title {
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-accent);
+  margin-bottom: var(--space-sm);
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+}
+
+.session-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-border);
+}
+
+.session-card__tag {
+  font-size: 0.75rem;
+  padding: 2px var(--space-sm);
+  border-radius: var(--radius-full);
+  background: var(--color-bg);
+  color: var(--color-text-secondary);
+  border: 1px solid var(--color-border);
+}
+
+/* Drill item */
+.drill-item {
+  padding: var(--space-sm) var(--space-md);
+  background: var(--color-bg);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-sm);
+  border: 1px solid var(--color-border);
+}
+
+.drill-item:last-child {
+  margin-bottom: 0;
+}
+
+.drill-item__header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+}
+
+.drill-item__name {
+  font-weight: 600;
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+}
+
+.drill-item__description {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  margin-top: 2px;
+}
+
+.drill-item__notes {
+  font-size: var(--font-size-sm);
+  color: var(--color-accent);
+  font-style: italic;
+  margin-top: var(--space-xs);
+}
+
+/* Tip item */
+.tip-item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-sm);
+  padding: var(--space-sm) 0;
+}
+
+.tip-item__icon {
+  color: var(--color-accent);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.tip-item__text {
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+  flex: 1;
+}
+
+.tip-item__badges {
+  display: flex;
+  gap: var(--space-xs);
+  flex-shrink: 0;
+}
+
+/* Student badge */
+.student-badge {
+  font-size: 0.7rem;
+  padding: 1px 6px;
+  border-radius: var(--radius-full);
+  color: white;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Empty state */
+.empty-state {
+  text-align: center;
+  padding: var(--space-2xl) var(--space-lg);
+  color: var(--color-text-secondary);
+}
+
+.empty-state__icon {
+  font-size: 3rem;
+  margin-bottom: var(--space-md);
+  opacity: 0.5;
+}
+
+.empty-state__text {
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+}
+
+.empty-state__subtext {
+  font-size: var(--font-size-sm);
+  margin-top: var(--space-xs);
+}
+
+/* Session list */
+.session-list {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: var(--space-md);
+}
+
+@media (min-width: 640px) {
+  .session-list {
+    padding: var(--space-lg) var(--space-xl);
+  }
+}

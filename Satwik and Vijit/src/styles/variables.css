@@ -1,0 +1,72 @@
+:root {
+  /* Primary — gold */
+  --color-primary: #D4A017;
+  --color-primary-light: #E8BF4A;
+  --color-primary-dark: #B8860B;
+
+  /* Student colors */
+  --color-satwik: #3B82F6;
+  --color-vijit: #EF4444;
+
+  /* Accent — warm gold */
+  --color-accent: #D4A017;
+  --color-accent-light: #E8BF4A;
+
+  /* Neutrals — black */
+  --color-bg: #0A0A0A;
+  --color-surface: #141414;
+  --color-surface-hover: #1E1E1E;
+  --color-text: #F0ECE2;
+  --color-text-secondary: #A09882;
+  --color-border: #2A2520;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+
+  /* Typography */
+  --font-sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+
+  /* Borders & Shadows */
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-full: 9999px;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.5);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.6);
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+  background: var(--color-bg) url('/images/badminton_smash_black_gold.png') center center / 80% auto no-repeat fixed;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}

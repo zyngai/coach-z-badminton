@@ -1,0 +1,26 @@
+{
+  "id": "2026-MM-DD",
+  "date": "2026-MM-DD",
+  "title": "Session N — Title",
+  "summary": "Brief description of what was covered.",
+  "drills": [
+    {
+      "name": "Drill name",
+      "description": "What the drill involves",
+      "students": ["satwik", "vijit"],
+      "notes": "Optional coach notes"
+    }
+  ],
+  "tips": [
+    { "text": "Tip or pointer text", "students": ["satwik", "vijit"] }
+  ],
+  "videos": [
+    {
+      "title": "Video title",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID",
+      "type": "youtube",
+      "students": ["satwik", "vijit"]
+    }
+  ],
+  "tags": ["tag1", "tag2"]
+}

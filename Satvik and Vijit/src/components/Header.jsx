@@ -6,7 +6,7 @@ export default function Header() {
       <div className="header__content">
         <h1 className="header__title">Coach Z Badminton Training</h1>
         <div className="header__divider"></div>
-        <p className="header__subtitle">Satwik & Vijit — Session Notes & Drills</p>
+        <p className="header__subtitle">Satvik & Vijit — Session Notes & Drills</p>
       </div>
     </header>
   )

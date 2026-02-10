@@ -7,19 +7,19 @@
     {
       "name": "Drill name",
       "description": "What the drill involves",
-      "students": ["satwik", "vijit"],
+      "students": ["satvik", "vijit"],
       "notes": "Optional coach notes"
     }
   ],
   "tips": [
-    { "text": "Tip or pointer text", "students": ["satwik", "vijit"] }
+    { "text": "Tip or pointer text", "students": ["satvik", "vijit"] }
   ],
   "videos": [
     {
       "title": "Video title",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID",
       "type": "youtube",
-      "students": ["satwik", "vijit"]
+      "students": ["satvik", "vijit"]
     }
   ],
   "tags": ["tag1", "tag2"]

@@ -26,21 +26,21 @@ jobs:
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: 'Satwik and Vijit/package-lock.json'
+          cache-dependency-path: 'Satvik and Vijit/package-lock.json'
 
       - name: Install dependencies
-        working-directory: 'Satwik and Vijit'
+        working-directory: 'Satvik and Vijit'
         run: npm ci
 
       - name: Build
-        working-directory: 'Satwik and Vijit'
+        working-directory: 'Satvik and Vijit'
         run: npm run build
 
       - uses: actions/configure-pages@v4
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: 'Satwik and Vijit/dist'
+          path: 'Satvik and Vijit/dist'
 
       - id: deployment
         uses: actions/deploy-pages@v4

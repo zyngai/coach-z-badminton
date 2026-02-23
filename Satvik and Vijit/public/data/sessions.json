@@ -50,6 +50,71 @@
         }
       ],
       "tags": ["split step", "footwork", "fundamentals", "ready position", "reaction"]
+    },
+    {
+      "id": "2026-02-22",
+      "date": "2026-02-22",
+      "title": "Session 2 — Clears & Rear Court Movement",
+      "takeaway": "Both students demonstrated strong clear technique from a stationary position, showing noticeable improvement in timing and coordination following the tennis ball throwing drill and comparison with Coach Z's reference video. The primary area for continued development is rear court movement — transitioning from executing clears while standing still to performing them with proper footwork and court coverage.",
+      "summary": "This session focused on overhead clear technique and rear court footwork. Students began by comparing their clear form against Coach Z's demonstration, then used tennis ball throwing drills to reinforce proper mechanics and shoulder activation. The improved timing carried over into shuttle feeding, where both students hit confident clears from a stationary position. The session concluded with split step footwork and rear court movement patterns.",
+      "drills": [
+        {
+          "name": "Clear Technique Comparison",
+          "description": "Side-by-side comparison of student clears against Coach Z's demonstration to identify form differences in contact point, body rotation, and follow-through.",
+          "students": ["satvik", "vijit"],
+          "notes": "Compare your form to Coach Z's video — pay attention to elbow height, weight transfer, and the snap at contact",
+          "videos": [
+            { "title": "Satvik", "url": "https://drive.google.com/file/d/1KObnhuBiU9iJg0eP_b7xuEp56JuRj1ga/view", "type": "gdrive", "students": ["satvik"] },
+            { "title": "Vijit", "url": "https://drive.google.com/file/d/1SSo_iBqbqHnEPSYperRjG-xk8RTxI8IC/view", "type": "gdrive", "students": ["vijit"] },
+            { "title": "Coach Z", "url": "https://drive.google.com/file/d/17EIsClPPGEbtArdEVFnJEVYOkxZXccee/view", "type": "gdrive", "students": [] }
+          ]
+        },
+        {
+          "name": "Tennis Ball Throw",
+          "description": "Overhead throwing motion with a tennis ball to reinforce throwing mechanics and shoulder activation. Builds the correct arm swing pattern used in clears and smashes.",
+          "students": ["satvik", "vijit"],
+          "notes": "Both students showing excellent timing and coordination — the throwing motion translates directly into a better clear",
+          "videos": [
+            { "title": "Satvik & Vijit", "url": "https://drive.google.com/file/d/11HI67FNRJNNTrQA82JgMz2fdu8UMYkxG/view", "type": "gdrive", "students": [] }
+          ]
+        },
+        {
+          "name": "Clear with Shuttle Feeding (Stationary)",
+          "description": "Coach-fed shuttles to practice clears from a fixed position — no movement, focusing purely on stroke technique. Emphasis on applying the timing and coordination developed from the tennis ball throw drill.",
+          "students": ["satvik", "vijit"],
+          "notes": "The improvement from the tennis ball throw is evident here — focus on consistency and keeping the shuttle deep",
+          "videos": [
+            { "title": "Satvik", "url": "https://drive.google.com/file/d/1cqR9ravFb5FVaNOQLzKuOtPQQugNcrnT/view", "type": "gdrive", "students": ["satvik"] },
+            { "title": "Vijit", "url": "https://drive.google.com/file/d/1wwQH44QtNHsw7ay4yLvzWI_MPR-9bvct/view", "type": "gdrive", "students": ["vijit"] }
+          ]
+        },
+        {
+          "name": "Split Step & Footwork to the Rear Court",
+          "description": "Combining split step timing from Session 1 with rear court footwork patterns — reading the shuttle direction and moving explosively to the back of the court.",
+          "students": ["satvik", "vijit"],
+          "notes": "Split step first, then pivot and drive off the outside foot to move to the rear court",
+          "videos": [
+            { "title": "Coach Z Demo", "url": "https://drive.google.com/file/d/1Pp-eR7aRQnyIMAKmUgynVF9Vij7b6dVQ/view", "type": "gdrive", "students": [] }
+          ]
+        },
+        {
+          "name": "Rear Court Movement & Shots",
+          "description": "Full rear court drill combining footwork with overhead shot execution. Moving to the shuttle, hitting the clear, and recovering to base position.",
+          "students": ["satvik", "vijit"],
+          "notes": "This is the area that needs the most work — use a scissor kick to recover and avoid falling backwards after the shot",
+          "videos": [
+            { "title": "Satvik", "url": "https://drive.google.com/file/d/1ndO31sI2mraSshnF5zLt1TKSooPPxEPs/view", "type": "gdrive", "students": ["satvik"] },
+            { "title": "Vijit", "url": "https://drive.google.com/file/d/1HMvVFSx2qnG9LDaJ_6UdSspmbouPvxRA/view", "type": "gdrive", "students": ["vijit"] }
+          ]
+        }
+      ],
+      "tips": [
+        { "text": "The throwing motion for a clear is the same as throwing a ball — if you can throw, you can clear", "students": ["satvik", "vijit"] },
+        { "text": "Hit the shuttle at the highest point you can reach — don't let it drop to your shoulder", "students": ["satvik", "vijit"] },
+        { "text": "A good clear should push your opponent deep behind the back service line", "students": ["satvik", "vijit"] },
+        { "text": "Always recover to base position after every rear court shot — don't admire your shot", "students": ["satvik", "vijit"] }
+      ],
+      "tags": ["clears", "rear court", "footwork", "throwing motion", "shuttle feeding", "split step"]
     }
   ]
 }

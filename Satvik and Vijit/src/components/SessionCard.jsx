@@ -36,6 +36,13 @@ export default function SessionCard({ session, students, activeStudent }) {
       <div className={`session-card__body ${open ? 'session-card__body--open' : ''}`}>
         <div className="session-card__body-inner">
           <div className="session-card__content">
+            {session.takeaway && (
+              <div className="session-card__takeaway">
+                <h3 className="session-card__section-title">Main Takeaway</h3>
+                <p className="session-card__takeaway-text">{session.takeaway}</p>
+              </div>
+            )}
+
             {session.summary && (
               <p className="session-card__summary">{session.summary}</p>
             )}
@@ -44,7 +51,7 @@ export default function SessionCard({ session, students, activeStudent }) {
               <div className="session-card__section">
                 <h3 className="session-card__section-title">Drills</h3>
                 {drills.map((drill, i) => (
-                  <DrillItem key={i} drill={drill} students={students} />
+                  <DrillItem key={i} drill={drill} students={students} number={i + 1} activeStudent={activeStudent} />
                 ))}
               </div>
             )}

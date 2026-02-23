@@ -74,6 +74,21 @@
   padding: 0 var(--space-lg) var(--space-lg);
 }
 
+.session-card__takeaway {
+  margin-bottom: var(--space-lg);
+  padding: var(--space-md);
+  background: var(--color-bg);
+  border-radius: var(--radius-md);
+  border-left: 3px solid var(--color-accent);
+}
+
+.session-card__takeaway-text {
+  color: var(--color-text);
+  font-size: var(--font-size-base);
+  line-height: 1.6;
+  margin-top: var(--space-xs);
+}
+
 .session-card__summary {
   color: var(--color-text-secondary);
   font-size: var(--font-size-base);
@@ -121,10 +136,10 @@
 
 /* Drill item */
 .drill-item {
-  padding: var(--space-sm) var(--space-md);
+  padding: var(--space-md);
   background: var(--color-bg);
   border-radius: var(--radius-md);
-  margin-bottom: var(--space-sm);
+  margin-bottom: var(--space-md);
   border: 1px solid var(--color-border);
 }
 
@@ -137,6 +152,18 @@
   align-items: center;
   gap: var(--space-sm);
   flex-wrap: wrap;
+}
+
+.drill-item__number {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-bg);
+  background: var(--color-accent);
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  white-space: nowrap;
 }
 
 .drill-item__name {
@@ -156,6 +183,12 @@
   color: var(--color-accent);
   font-style: italic;
   margin-top: var(--space-xs);
+}
+
+.drill-item__videos {
+  margin-top: var(--space-md);
+  padding-top: var(--space-sm);
+  border-top: 1px solid var(--color-border);
 }
 
 /* Tip item */

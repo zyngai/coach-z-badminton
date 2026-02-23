@@ -7,7 +7,14 @@ function getYouTubeId(url) {
   return match ? match[1] : null
 }
 
+function getGDriveId(url) {
+  const match = url.match(/\/d\/([a-zA-Z0-9_-]+)/)
+  return match ? match[1] : null
+}
+
 export default function VideoEmbed({ video }) {
+  const title = video.title || 'Video'
+
   if (video.type === 'youtube') {
     const videoId = getYouTubeId(video.url)
     if (videoId) {
@@ -17,8 +24,27 @@ export default function VideoEmbed({ video }) {
           <div className="video-embed__wrapper">
             <iframe
               src={`https://www.youtube.com/embed/${videoId}`}
-              title={video.title || 'Video'}
+              title={title}
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
+          </div>
+        </div>
+      )
+    }
+  }
+
+  if (video.type === 'gdrive') {
+    const fileId = getGDriveId(video.url)
+    if (fileId) {
+      return (
+        <div className="video-embed">
+          {video.title && <p className="video-embed__title">{video.title}</p>}
+          <div className="video-embed__wrapper">
+            <iframe
+              src={`https://drive.google.com/file/d/${fileId}/preview`}
+              title={title}
+              allow="autoplay; encrypted-media"
               allowFullScreen
             />
           </div>

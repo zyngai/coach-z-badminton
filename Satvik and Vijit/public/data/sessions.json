@@ -115,6 +115,87 @@
         { "text": "Always recover to base position after every rear court shot — don't admire your shot", "students": ["satvik", "vijit"] }
       ],
       "tags": ["clears", "rear court", "footwork", "throwing motion", "shuttle feeding", "split step"]
+    },
+    {
+      "id": "2026-03-01",
+      "date": "2026-03-01",
+      "title": "Session 3 (With Homework) — Footwork & Full Court Shadow Movement",
+      "takeaway": "This session laid the groundwork for court coverage by isolating footwork patterns across all four zones before combining them into full court shadow movement. The key breakthrough was demonstrating how split step timing and anticipation — reading Coach Z's directional cues — directly dictate movement efficiency. Both students showed solid fundamentals when moving at a controlled pace; the next step is maintaining that same technical quality as intensity increases.",
+      "summary": "A footwork-focused session that systematically built from isolated zone movement to full court shadow drills. After a dynamic warm-up, students worked through front court, mid court sideline, and rear court footwork patterns individually. The session culminated in full court shadow movement with Coach Z calling directional cues to simulate match-like rally scenarios, emphasizing split step timing, directional anticipation, and efficient recovery.",
+      "drills": [
+        {
+          "name": "Dynamic Warm-Up",
+          "description": "Progressive warm-up to prepare the lower body for footwork-intensive training. Included lateral shuffles, high knees, lunges, and court-length movement patterns to activate the key muscle groups used in directional changes.",
+          "students": ["satvik", "vijit"],
+          "notes": "Ensure full range of motion during the warm-up — cold muscles lead to inefficient movement and increased injury risk"
+        },
+        {
+          "name": "Front Court Footwork Breakdown",
+          "description": "Isolated front court movement patterns focusing on the lunge step, net approach, and recovery. Coach Z demonstrated proper technique including foot placement, body alignment, and push-off mechanics for efficient net coverage.",
+          "students": ["satvik", "vijit"],
+          "notes": "Lead with the racket foot, stay low through the lunge, and push off the heel to recover — do not drag the back foot",
+          "videos": [
+            { "title": "Coach Z — Front Court Footwork", "url": "https://drive.google.com/file/d/1YoQKx4A1FKRnRMjUGi3DiZ5ZSmE9sXHE/view", "type": "gdrive", "students": [] }
+          ]
+        },
+        {
+          "name": "Mid Court Sideline Footwork Breakdown",
+          "description": "Lateral movement patterns for covering the mid court sidelines. Focused on the side-step shuffle, chasse step timing, and maintaining a low center of gravity while transitioning between forehand and backhand sides.",
+          "students": ["satvik", "vijit"],
+          "notes": "Stay compact through the lateral movement — wide steps waste time and leave you off-balance for the next shot"
+        },
+        {
+          "name": "Rear Court Footwork Breakdown",
+          "description": "Rear court movement patterns emphasizing the pivot, cross-step sequence, and scissor kick recovery. Coach Z demonstrated how to generate backward momentum while keeping the body weight forward for a controlled return to base.",
+          "students": ["satvik", "vijit"],
+          "notes": "The scissor kick is essential — it reverses your momentum and propels you back toward center court instead of falling backwards",
+          "videos": [
+            { "title": "Coach Z — Rear Court Footwork", "url": "https://drive.google.com/file/d/1QfUHbNnDEklVytPBPB7dTQzbnsqBfZsH/view", "type": "gdrive", "students": [] }
+          ]
+        },
+        {
+          "name": "Full Court Shadow Movement",
+          "description": "Full court shadow drill with Coach Z calling directional cues to simulate real match scenarios. Students performed split steps, read Coach Z's directional signals, and executed the appropriate footwork pattern to cover all four corners of the court. The drill emphasized anticipation, split step timing, and seamless transitions between court zones.",
+          "students": ["satvik", "vijit"],
+          "notes": "Initiate the split step as Coach Z is about to signal — anticipate the direction, and if the read is wrong, redirect immediately without hesitation. After each shadow movement, recover toward center court at a controlled pace, but there is no obligation to fully return before the next cue. If the next direction is the same, conserve energy by holding position rather than resetting to center.",
+          "videos": [
+            { "title": "Satvik — Full Court Shadow", "url": "https://drive.google.com/file/d/1ggvas4wL8VOsh5_ihaK8Q_XCyrCdu-Cq/view", "type": "gdrive", "students": ["satvik"] },
+            { "title": "Vijit — Full Court Shadow", "url": "https://drive.google.com/file/d/1VI0RchKAW1Yc6V2ClJM5HiFRfPf_GQXk/view", "type": "gdrive", "students": ["vijit"] }
+          ]
+        }
+      ],
+      "tips": [
+        { "text": "The split step should be timed to the opponent's point of contact — begin loading as Coach Z commits to a direction, and redirect if the initial read is wrong", "students": ["satvik", "vijit"] },
+        { "text": "Recovery toward center court should be gradual and controlled — there is no obligation to fully reset between movements, especially if the next cue targets the same zone", "students": ["satvik", "vijit"] },
+        { "text": "Prioritize controlled, deliberate movement over raw speed — efficient footwork at a slower pace builds the muscle memory needed to execute at full intensity later", "students": ["satvik"] },
+        { "text": "Avoid relying on brute force to cover the court — when the pace slows down, the footwork becomes noticeably cleaner and more energy-efficient", "students": ["satvik"] },
+        { "text": "In the rear court, eliminate the backward slide on the last step — use a scissor kick to pivot momentum forward and maintain balance through the recovery", "students": ["satvik"] },
+        { "text": "On front court lunges, land heel-first on the racket foot with toes pointing toward the shuttle — landing on the ball of the foot with the foot angled away increases the risk of an ankle sprain", "students": ["vijit"] },
+        { "text": "Maintain racket preparation in the rear court — keep the racket up and execute a compact, quick swing rather than dropping the racket head and waiting for the shuttle to arrive", "students": ["vijit"] }
+      ],
+      "homework": [
+        {
+          "name": "Dynamic Warm-Up Drills",
+          "description": "Follow along with the video below to complete a full dynamic warm-up routine. This can be done at home with minimal space and no equipment. Focus on full range of motion and controlled movement throughout each exercise.",
+          "students": ["satvik", "vijit"],
+          "videos": [
+            { "title": "Dynamic Warm-Up Routine", "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s", "type": "youtube", "students": [] }
+          ]
+        },
+        {
+          "name": "Full Court Shadow Movement",
+          "description": "Perform full court shadow footwork with a partner (parent, sibling, or self-directed) calling out directional cues to simulate real match play. Apply the same principles covered in this session — split step on each cue, anticipate the direction, recover at a controlled pace, and focus on clean, efficient footwork over speed.",
+          "students": ["satvik", "vijit"],
+          "notes": "No court or racket required — this can be done in any open space. The goal is repetition and building movement patterns into muscle memory."
+        }
+      ],
+      "homeworkNote": "The next session is not until March 29 — use the time between sessions to practice consistently. Even a simple routine like Homework 1 done at home goes a long way toward breaking bad habits and reinforcing proper muscle memory. Coach Z trained 3–5 days a week at your age. Commit to at least a few short sessions each week and the improvement will speak for itself.",
+      "closingImage": {
+        "src": "./images/young_z_shadow_movement.png",
+        "alt": "Young Coach Z practicing shadow movement footwork",
+        "caption": "A young Coach Z putting in the work — shadow movement drills, day after day."
+      },
+      "tags": ["footwork", "shadow movement", "front court", "mid court", "rear court", "split step", "court coverage", "anticipation", "homework"]
     }
   ]
 }

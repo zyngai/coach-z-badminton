@@ -1,12 +1,12 @@
 import VideoEmbed from './VideoEmbed'
 import { filterItems } from '../utils/filters'
 
-export default function DrillItem({ drill, students, number, activeStudent }) {
+export default function DrillItem({ drill, students, number, activeStudent, label = 'Drill' }) {
   const videos = filterItems(drill.videos || [], activeStudent)
   return (
     <div className="drill-item">
       <div className="drill-item__header">
-        {number && <span className="drill-item__number">Drill {number}</span>}
+        {number && <span className="drill-item__number">{label} {number}</span>}
         <span className="drill-item__name">{drill.name}</span>
         {drill.students?.length > 0 && drill.students.length < students.length && (
           drill.students.map((sid) => {

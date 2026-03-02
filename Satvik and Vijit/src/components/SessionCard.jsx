@@ -12,6 +12,7 @@ export default function SessionCard({ session, students, activeStudent }) {
   const drills = filterItems(session.drills || [], activeStudent)
   const tips = filterItems(session.tips || [], activeStudent)
   const videos = filterItems(session.videos || [], activeStudent)
+  const homework = filterItems(session.homework || [], activeStudent)
 
   return (
     <article className="session-card">
@@ -71,6 +72,34 @@ export default function SessionCard({ session, students, activeStudent }) {
                 {videos.map((video, i) => (
                   <VideoEmbed key={i} video={video} />
                 ))}
+              </div>
+            )}
+
+            {homework.length > 0 && (
+              <div className="session-card__section session-card__homework">
+                <h3 className="session-card__section-title">
+                  <span className="session-card__homework-icon">&#9998;</span>
+                  Homework
+                </h3>
+                {homework.map((hw, i) => (
+                  <DrillItem key={i} drill={hw} students={students} number={i + 1} activeStudent={activeStudent} label="HW" />
+                ))}
+                {session.homeworkNote && (
+                  <p className="session-card__homework-note">{session.homeworkNote}</p>
+                )}
+              </div>
+            )}
+
+            {session.closingImage && (
+              <div className="session-card__closing-image">
+                <img
+                  src={session.closingImage.src}
+                  alt={session.closingImage.alt}
+                  className="session-card__closing-img"
+                />
+                {session.closingImage.caption && (
+                  <p className="session-card__closing-caption">{session.closingImage.caption}</p>
+                )}
               </div>
             )}
 

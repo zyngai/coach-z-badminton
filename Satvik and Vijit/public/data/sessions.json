@@ -269,6 +269,73 @@
       ],
       "homeworkNote": "The split step and low recovery are fundamentals that must become second nature — they cannot be skipped in faster rallies. Prioritize the lunge exercises to build the leg strength needed for explosive, low movement. Even 10 minutes of lunges and shadow footwork a few times a week will make a noticeable difference by the next session.",
       "tags": ["footwork", "finger squeeze", "forearm pronation", "flat clear", "front court push", "shuttle feeding", "fast rallies", "split step", "homework"]
+    },
+    {
+      "id": "2026-04-26",
+      "date": "2026-04-26",
+      "title": "Session 5 — Jump Skip & Footwork Refinement",
+      "takeaway": "This session paired off-court athletic conditioning with an honest reset of split step and push-off mechanics. Jump skipping was introduced as a foundation for the elastic bounce that powers every explosive movement on court — bouncing from the ankles, not lifting the legs to clear the rope. The footwork block exposed a default habit of over-shuffling instead of pushing off, which will require sustained repetition before the push-off becomes the automatic first response. The closing rear court high clear rally with Vijit was a strong indicator of progress: footwork is still inefficient, but shot consistency is improving enough to sustain a rally with Coach Z.",
+      "summary": "A session built around two pillars: athletic conditioning through jump skipping, and a back-to-basics revisit of split step and push-off mechanics. Students progressed from single skips to double skips, with corrections aimed at sourcing the bounce from the calves and ankles rather than from the knees. The footwork block then targeted the most common breakdown in their movement — defaulting to shuffle steps instead of a loaded split step followed by an explosive push-off. The session closed with a live rear court high clear rally between Vijit and Coach Z to apply the day's work under continuous pressure.",
+      "drills": [
+        {
+          "name": "Jump Skip Progression — Single to Double Unders",
+          "description": "Jump rope skipping starting with single unders to establish rhythm and bounce, then progressing to double unders for elasticity and timing. Jump skipping is a core off-court tool for badminton — it builds the same elastic, ground-reactive bounce that powers split steps, push-offs, and recovery between shots.",
+          "students": ["satvik", "vijit"],
+          "notes": "Both students defaulted to lifting their legs to clear the rope rather than driving the bounce from the calves and ankles. Lifting the knees disconnects the movement from the ground reaction force — which is the exact energy you want to recycle on court. After a few corrections both began bouncing more from the lower legs and the rhythm cleaned up significantly.",
+          "videos": [
+            { "title": "Satvik & Vijit — Jump Skip", "url": "https://drive.google.com/file/d/1sMcOqsR7yMRh7epdxqNKeVN9iqkYFaWx/view", "type": "gdrive", "students": ["satvik", "vijit"] },
+            { "title": "Jump Skip Reference — YouTube Short", "url": "https://www.youtube.com/shorts/s8YjkbvShAQ", "type": "youtube", "students": [] }
+          ]
+        },
+        {
+          "name": "Footwork — Split Step & Push-Off Revisited",
+          "description": "Targeted footwork block to revisit split step timing and push-off mechanics. Students loaded energy through a split step, then drove off the outside foot in the called direction. The drill explicitly contrasted the push-off against the shuffle step — a passive sliding movement that does not generate force from the ground.",
+          "students": ["satvik", "vijit"],
+          "notes": "There is still a lot of work to do here. The default movement for both students remains the shuffle step, with the push-off being the exception rather than the rule. This will take time before it becomes second nature — repeat it until the body chooses the push-off automatically, even when tired.",
+          "videos": [
+            { "title": "Satvik — Split Step & Push-Off", "url": "https://drive.google.com/file/d/1czwpz0dQxHxaxVrdLN40ZW3E5rtZSyc-/view", "type": "gdrive", "students": ["satvik"] },
+            { "title": "Vijit — Split Step & Push-Off", "url": "https://drive.google.com/file/d/1P-cKlGLhXADs-AejpIAW07KgvLaSPv2Z/view", "type": "gdrive", "students": ["vijit"] },
+            { "title": "Split Step & Push-Off Reference — YouTube Short", "url": "https://www.youtube.com/shorts/isMgytoFn5o", "type": "youtube", "students": [] }
+          ]
+        },
+        {
+          "name": "Rear Court High Clear Rally with Coach Z",
+          "description": "Live rally between Vijit and Coach Z, focused on sustained rear court high clears. The drill applied the day's footwork emphasis under continuous rally pressure — reading the shuttle, moving to the rear court, executing the clear, and recovering for the next exchange.",
+          "students": ["vijit"],
+          "notes": "Footwork can still be more efficient — too many small steps and not enough commitment to a clean push-off recovery between shots. That said, Vijit was able to hold a rally with Coach Z, which is a meaningful step up in shot consistency and shows the rear court clear technique is starting to hold up under live conditions.",
+          "videos": [
+            { "title": "Vijit — Rear Court Rally", "url": "https://drive.google.com/file/d/1waakfdQQwivIwNwYwcSb2pEnfCsJNrf6/view", "type": "gdrive", "students": ["vijit"] }
+          ]
+        }
+      ],
+      "tips": [
+        { "text": "The bounce in jump skipping should come from the ankles and calves — keep the legs relatively straight and let the ground reaction force do the work. Lifting the knees to clear the rope is a sign that you are not using the elastic bounce that powers explosive court movement.", "students": ["satvik", "vijit"] },
+        { "text": "Progress single skips before double skips. Master the rhythm and bounce on singles first — double unders punish poor mechanics by tripping you up, which is itself useful feedback that the bounce is not coming from the right place.", "students": ["satvik", "vijit"] },
+        { "text": "Split steps load energy; push-offs release it. A shuffle step does neither — it just slides you sideways without generating any force off the ground. Every directional change should begin with a split step and end with a clean push-off, not a chain of small slides.", "students": ["satvik", "vijit"] },
+        { "text": "The push-off will feel slower and more awkward than shuffling at first — that is expected. Speed only comes after the pattern becomes second nature. Rushing the technique now just reinforces the shuffle habit you are trying to replace.", "students": ["satvik", "vijit"] },
+        { "text": "In a rear court rally, do not stop moving after the shot — recover with intent. Idle steps between shots are wasted reaction time and will catch up to you against a quicker opponent.", "students": ["vijit"] }
+      ],
+      "homework": [
+        {
+          "name": "Dynamic Warm-Up Drills (Revisited from Session 3)",
+          "description": "Continue performing the dynamic warm-up routine before every practice session or workout. The routine activates the lower body and prepares the joints and muscles for explosive court movement. Consistency with this warm-up directly improves on-court readiness and reduces injury risk.",
+          "students": ["satvik", "vijit"],
+          "videos": [
+            { "title": "Dynamic Warm-Up Routine", "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s", "type": "youtube", "students": [] }
+          ]
+        },
+        {
+          "name": "Jump Skip — Single Skips, then Double Skips",
+          "description": "Daily jump rope practice. Begin with 1–2 minutes of single skips to establish a clean bounce and rhythm, then progress into double skips. Focus on bouncing from the ankles and calves — keep the knees relatively straight and let the elastic recoil of the lower legs do the work, instead of lifting the knees to clear the rope.",
+          "students": ["satvik", "vijit"],
+          "notes": "Build duration before complexity — a clean two-minute set of single skips is more valuable than a sloppy attempt at double unders. Progress to doubles only once the bounce on singles feels effortless and is sourced from the calves.",
+          "videos": [
+            { "title": "Jump Skip Reference — YouTube Short", "url": "https://www.youtube.com/shorts/s8YjkbvShAQ", "type": "youtube", "students": [] }
+          ]
+        }
+      ],
+      "homeworkNote": "Jump skipping is one of the highest-leverage off-court drills you can do — it directly builds the bounce, ankle stiffness, and rhythm that translate into split step and push-off explosiveness on court. Combined with the dynamic warm-up, even a short daily routine at home will compound into noticeable on-court improvement by the next session.",
+      "tags": ["jump skip", "jump rope", "footwork", "split step", "push-off", "rear court", "high clear", "rally", "conditioning", "homework"]
     }
   ]
 }

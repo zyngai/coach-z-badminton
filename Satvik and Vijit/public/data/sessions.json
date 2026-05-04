@@ -336,6 +336,96 @@
       ],
       "homeworkNote": "Jump skipping is one of the highest-leverage off-court drills you can do — it directly builds the bounce, ankle stiffness, and rhythm that translate into split step and push-off explosiveness on court. Combined with the dynamic warm-up, even a short daily routine at home will compound into noticeable on-court improvement by the next session.",
       "tags": ["jump skip", "jump rope", "footwork", "split step", "push-off", "rear court", "high clear", "rally", "conditioning", "homework"]
+    },
+    {
+      "id": "2026-05-03",
+      "date": "2026-05-03",
+      "title": "Session 6 — Plyometric Power & Match Application",
+      "takeaway": "Today centered on explosive lower-body power as the engine behind every fast movement in badminton — first-step acceleration, deep lunges, overhead jumps, and rapid recovery. Frog jumps were introduced as the anchor plyometric drill, then layered into corner footwork, multi-shuttle reactivity, 2v1 court play, and finally live full-court singles. A clear gap surfaced: both students lack the lower-body and core strength needed to fully express the explosive movement the drills are training. This will be a recurring focus going forward, and translation from drill quality to in-game performance will lag until the strength foundation catches up.",
+      "summary": "A session built to bridge explosive lower-body power into live match application. Work progressed in four stages: (1) frog jumps paired with four-corner footwork — lunges to the front, vertical jumps in the rear — to anchor the day's plyometric base; (2) frog jumps combined with Coach Z's multi-shuttle feeds to layer reactivity onto explosiveness; (3) open multi-shuttle serving for sustained reactive court coverage; (4) live application through a 2v1 court drill and two full-court singles games between Satvik and Vijit. The throughline was the same skill being tested under progressively less controlled conditions — from dry plyometric pattern, to fed reactivity, to open feeding, to point construction, to full match play.",
+      "drills": [
+        {
+          "name": "Frog Jump → Four-Corner Footwork (Lunge Front, Vertical Jump Rear)",
+          "description": "Plyometric-anchored footwork drill. Each repetition starts with a frog jump to load the legs, followed by movement to one of the four corners — a deep lunge at the front court corners and a vertical jump simulating an overhead contact at the rear court corners. Builds the explosive ground reaction force that powers first-step acceleration, committed front-court lunges, and high overhead reach.",
+          "students": ["satvik", "vijit"],
+          "notes": "Both students lack the lower-body and core strength needed to fully transfer the frog jump's loading into the next movement — by the second or third corner the bounce flattens, lunge depth shortens, and the vertical jump loses height. This is a strength gap, not a technique gap. Expect this drill to return regularly until the legs catch up.",
+          "videos": [
+            { "title": "Vijit — Frog Jump 4-Corner Footwork", "url": "https://drive.google.com/file/d/1Qpz1M1JlMikgF7FRcgmVxCR9p5SL4lIB/view", "type": "gdrive", "students": ["vijit"] },
+            { "title": "Satvik — Frog Jump 4-Corner Footwork", "url": "https://drive.google.com/file/d/1wSY5-LA1x1XUSyp5ODmZzRlJa_VBVfsu/view", "type": "gdrive", "students": ["satvik"] }
+          ]
+        },
+        {
+          "name": "Frog Jump + Multi-Shuttle Reactivity",
+          "description": "Coach Z layered reactivity onto the frog jump base by feeding a shuttle to a random direction immediately after each jump. Students read the feed, redirected mid-air or on landing, and played the shot. The drill bridges the gap between dry plyometric output and live reactive court movement, training the body to stay explosive while reacting under time pressure.",
+          "students": ["satvik", "vijit"],
+          "notes": "Under reaction stress the natural tendency is to abandon the explosive base and revert to shuffling. The goal here is to keep the legs loaded and continue driving from the ground even when the eyes and mind take over — that habit is what carries explosiveness from the drill into a real rally.",
+          "videos": [
+            { "title": "Satvik & Vijit — Frog Jump + Multi-Shuttle", "url": "https://drive.google.com/file/d/1EFo9xV28aFsFkXTbpnt9o8yqsPnCCKm1/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+          ]
+        },
+        {
+          "name": "Multi-Shuttle Serving — Open Court Coverage",
+          "description": "Continuous multi-shuttle feeding from Coach Z, varying direction and depth across the full court. The drill applies the explosive lower-body power developed earlier in the session under sustained game-like tempo, with no scripted sequence — students must read each feed and commit to a clean first step.",
+          "students": ["satvik", "vijit"],
+          "notes": "The hope is that the explosiveness from the frog jump work begins to surface here as quicker first steps and more committed lunges and jumps under continuous feeding. Early days — carryover from plyometric work to live reactivity tends to consolidate gradually as both the strength and the motor patterns mature.",
+          "videos": [
+            { "title": "Satvik & Vijit — Multi-Shuttle 1", "url": "https://drive.google.com/file/d/1aYTIn2xB7mRaRqqDEFZWNkUH5j-H5M4O/view", "type": "gdrive", "students": ["satvik", "vijit"] },
+            { "title": "Satvik & Vijit — Multi-Shuttle 2", "url": "https://drive.google.com/file/d/17zIRN1CIGLysKhQTHEuqFJw7XJxLvBJD/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+          ]
+        },
+        {
+          "name": "2 vs 1 Court Drill",
+          "description": "Two-against-one court play to apply footwork, court coverage, and shot selection under realistic point-construction pressure. The 2v1 format compresses reaction time and forces faster decisions than open feeding, making it the closest drill to live match conditions before the actual games.",
+          "students": ["satvik", "vijit"],
+          "notes": "Fatigue was clearly a factor by this point in the session — pace of movement and shot quality dropped noticeably as the rallies extended. This is consistent with the lower-body strength gap identified earlier and reinforces why plyometric and conditioning work is a recurring priority.",
+          "videos": [
+            { "title": "Satvik & Vijit — 2 vs 1", "url": "https://drive.google.com/file/d/1L4SK4UJMagvUEQPHBQx-Hg6uGYibyiFi/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+          ]
+        },
+        {
+          "name": "Full-Court Singles — Match Play",
+          "description": "Two full-court singles games between Satvik and Vijit to close the session. The intent is to test whether the day's drill work — plyometric loading, footwork, reactivity — begins to surface in unscripted point play, where decisions are continuous and there is no coach feeding the next ball.",
+          "students": ["satvik", "vijit"],
+          "notes": "Translation from drill to game is still a work in progress. Footwork quality, split-step timing, and shot selection all regress under live match pressure compared to the controlled drill environment. This is expected at this stage — match application is the slowest skill to develop and only consolidates after the underlying movement and strength foundations are solid.",
+          "videos": [
+            { "title": "Satvik vs Vijit — Game 1", "url": "https://drive.google.com/file/d/15eFemMDkBpXDEZN_Dx3FdCfiOAWjE6ei/view", "type": "gdrive", "students": ["satvik", "vijit"] },
+            { "title": "Satvik vs Vijit — Game 2", "url": "https://drive.google.com/file/d/1NIc8ZeyF7pRaEHDPCBJYxpuSv7mr28ME/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+          ]
+        }
+      ],
+      "tips": [
+        { "text": "Frog jumps are not about how high you jump — they are about how forcefully you push the ground away. The point is training the legs to deliver maximum force in minimum time, which is the same skill that powers a fast first step, a deep lunge, and a high overhead contact.", "students": ["satvik", "vijit"] },
+        { "text": "Lower-body strength is currently the rate-limiter on explosiveness. Drills can teach the pattern, but the legs must be strong enough to express it — this is why the frog jump work and supporting strength training will keep coming back as a priority.", "students": ["satvik", "vijit"] },
+        { "text": "When reactivity is added (multi-shuttle, 2v1, games), the default tendency is to abandon the explosive base and revert to shuffling. Notice when this happens and consciously stay loaded — the goal of the drills is to make explosive movement the automatic response, not the exception.", "students": ["satvik", "vijit"] },
+        { "text": "Drill quality and game quality move at different speeds. Match play will look rougher than the drill for a long time — that is normal. The drill quality is what builds the ceiling, and the game quality climbs toward it later, not in the same session.", "students": ["satvik", "vijit"] },
+        { "text": "Manage fatigue honestly. When rallies in 2v1 or singles slow down, that is the body signaling the strength reserve is running low — push through where it is safe, but read it as confirmation that off-court conditioning is the missing piece, not a sign of weak willpower.", "students": ["satvik", "vijit"] }
+      ],
+      "homework": [
+        {
+          "name": "Dynamic Warm-Up Drills (Carried Forward from Session 3)",
+          "description": "Continue performing the dynamic warm-up routine before every practice or workout. Activates the lower body and prepares the joints for explosive court movement and plyometric work.",
+          "students": ["satvik", "vijit"],
+          "videos": [
+            { "title": "Dynamic Warm-Up Routine", "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s", "type": "youtube", "students": [] }
+          ]
+        },
+        {
+          "name": "Jump Skip — Single & Double (Carried Forward from Session 5)",
+          "description": "Continue daily jump rope work — 1–2 minutes of single skips to establish bounce and rhythm, then progress to double skips. The bounce should come from the ankles and calves, not from lifting the knees to clear the rope.",
+          "students": ["satvik", "vijit"],
+          "videos": [
+            { "title": "Jump Skip Reference — YouTube Short", "url": "https://www.youtube.com/shorts/s8YjkbvShAQ", "type": "youtube", "students": [] }
+          ]
+        },
+        {
+          "name": "Lower-Body Strength — Squats & Lunges",
+          "description": "Bodyweight squats and lunges performed daily to address the lower-body strength gap identified during this session. Aim for clean, controlled reps with full range of motion: knees tracking over toes on squats, front knee aligned over the ankle on lunges, torso upright, and a deliberate drive up through the heel. Strong legs are the foundation that lets explosive plyometric work — frog jumps, jump skips, split steps — actually translate to on-court speed and power.",
+          "students": ["satvik", "vijit"],
+          "notes": "Quality before quantity. A handful of clean reps a day beats a sloppy long set — and sloppy reps train sloppy movement. Build duration gradually as the legs adapt."
+        }
+      ],
+      "homeworkNote": "The biggest finding from this session is that lower-body strength is the rate-limiter on explosiveness. The plyometric and on-court work in class can only express what the legs are strong enough to deliver — so the off-court strength work (squats, lunges, jump skips) is no longer optional. Even 10–15 minutes a day, a few times a week, will compound quickly. Expect noticeable carryover into match play once the strength base catches up.",
+      "tags": ["plyometrics", "frog jump", "footwork", "multi-shuttle", "2v1", "match play", "full court", "lower body strength", "conditioning", "homework"]
     }
   ]
 }

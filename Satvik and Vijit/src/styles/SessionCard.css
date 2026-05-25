@@ -227,6 +227,59 @@
   white-space: nowrap;
 }
 
+/* Critical observations section */
+.session-card__observations {
+  padding: var(--space-md);
+  background: var(--color-bg);
+  border-radius: var(--radius-md);
+  border-left: 3px solid #d97706;
+}
+
+.session-card__observations .session-card__section-title {
+  color: #d97706;
+}
+
+.session-card__observations-icon {
+  font-size: var(--font-size-base);
+}
+
+.session-card__observations-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.session-card__observation {
+  position: relative;
+  padding: var(--space-sm) 0 var(--space-sm) var(--space-lg);
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-sm);
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+  line-height: 1.6;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.session-card__observation:last-child {
+  border-bottom: none;
+}
+
+.session-card__observation::before {
+  content: "";
+  position: absolute;
+  left: var(--space-sm);
+  top: calc(var(--space-sm) + 0.55em);
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #d97706;
+}
+
+.session-card__observation-text {
+  flex: 1;
+}
+
 /* Homework section */
 .session-card__homework {
   padding: var(--space-md);

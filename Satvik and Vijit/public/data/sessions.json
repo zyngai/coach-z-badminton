@@ -426,6 +426,103 @@
       ],
       "homeworkNote": "The biggest finding from this session is that lower-body strength is the rate-limiter on explosiveness. The plyometric and on-court work in class can only express what the legs are strong enough to deliver — so the off-court strength work (squats, lunges, jump skips) is no longer optional. Even 10–15 minutes a day, a few times a week, will compound quickly. Expect noticeable carryover into match play once the strength base catches up.",
       "tags": ["plyometrics", "frog jump", "footwork", "multi-shuttle", "2v1", "match play", "full court", "lower body strength", "conditioning", "homework"]
+    },
+    {
+      "id": "2026-05-23",
+      "date": "2026-05-23",
+      "title": "Session 7 — Net Shot to Force the Lift",
+      "takeaway": "The technical focus of this session was the quality net shot — the shot that forces the opponent to lift the shuttle and hands you the attacking position. Work progressed from a footwork warm-up, into a touch reassessment at the net, then into fed multi-shuttle and finally live single-shuttle front-and-rear court play where a poor net shot was punished with a kill. The day surfaced a more important throughline: footwork quality collapses the moment a shuttle is added. Rear court movement in particular reverted to old habits — Vijit cheating the last step with a big slide, Satvik jumping before committing to the travel — and these will be the central focus of the next several sessions. Theme to internalize: \"In badminton, you can only be fast when you are slow.\"",
+      "summary": "Session built around the net shot as the setup for attack — forcing the opponent to lift and putting you in position to finish the rally. The structure moved from isolated footwork (pick-and-toss to the rear court), to net shot touch reassessment, to multi-shuttle front-and-rear feeding under tempo, to a live one-shuttle front-and-rear drill where the coach killed any loose net shot. The technical work was solid, but the more critical observation was how quickly footwork fundamentals degraded once shuttles were involved — see the Critical Observations section above.",
+      "observations": [
+        { "text": "Rear court footwork: tends to take a big slide on the last step instead of taking enough steps to reach properly under the shuttle. The 'cheeky' shortcut breaks the continuation of the footwork pattern and leaves the contact point and recovery compromised.", "students": ["vijit"] },
+        { "text": "Rear court footwork: defaults to a jump on every rear court shot, and jumps too early — before committing to the footwork travel and before the intent to hit is clear. Likely picked up from watching pros jump-smash without seeing the footwork that sets it up. The jump is the finish, not the travel.", "students": ["satvik"] },
+        { "text": "Theme for the next sessions — \"In badminton, you can only be fast when you are slow.\" Speed is the byproduct of clean, committed footwork done at a controlled pace. Rushing the pattern before it is automatic produces shortcuts (slides, early jumps) that look fast and play slow.", "students": ["satvik", "vijit"] },
+        { "text": "Footwork quality dropped noticeably the moment a shuttle was introduced. The drills without a shuttle looked acceptable; the moment the eyes had to track and the racket had to swing, the footwork reverted to old habits. The next sessions will deliberately bridge that gap.", "students": ["satvik", "vijit"] },
+        { "text": "Recurring issue — split steps are still being skipped or done at the wrong time. Without the split step, the first step is reactive instead of explosive and the rest of the footwork pattern starts late.", "students": ["satvik", "vijit"] },
+        { "text": "Recurring issue — center of gravity is not low enough during movement and recovery. Standing tall makes every push-off slower and every change of direction harder.", "students": ["satvik", "vijit"] },
+        { "text": "Recurring issue — habit of pulling the dominant foot back instead of doing a hop. This loads the body weight backward and makes it very hard to return a tight net shot played by the opponent, which is exactly the situation the day's drills were designed to create.", "students": ["satvik", "vijit"] }
+      ],
+      "drills": [
+        {
+          "name": "Pick & Toss — Front to Rear Court Footwork",
+          "description": "Footwork warm-up to load the rear court travel pattern without the complication of a racket. Students pick up a shuttle from the front court, shuffle/travel back to the rear court, and throw the shuttle from a rear court position. The throwing motion at the back mimics the overhead contact, so the drill rehearses both the footwork pattern and the kinetic chain that ends in the shot.",
+          "students": ["satvik", "vijit"],
+          "notes": "The point of this drill is the travel, not the throw. Commit to enough steps to arrive under the shuttle — don't cheat the last step with a big slide, and don't substitute a jump for the footwork. The slower the pattern, the cleaner the habit being built.",
+          "videos": [
+            { "title": "Pick & Toss — Footwork", "url": "https://drive.google.com/file/d/12oLh_6eon1lhQ_EpPtAHAJBFrRL5d7Ai/view", "type": "gdrive", "students": ["satvik", "vijit"] },
+            { "title": "Pick & Toss — Footwork 2", "url": "https://drive.google.com/file/d/1s1O6cp1mbOQRVI1ZLHWxBOChk9Pv7ACf/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+          ]
+        },
+        {
+          "name": "Net Shot — Touch Reassessment",
+          "description": "Reassessment of the net shot — the controlled, soft touch that lands tight to the net and forces the opponent to lift the shuttle. The goal is to rebuild the feel for the contact: relaxed grip, soft hands, and just enough racket-head speed to clear the tape without floating the shuttle high enough to be killed. A quality net shot is what unlocks the attacking position the rest of the session is built around.",
+          "students": ["satvik", "vijit"],
+          "notes": "The touch comes from the fingers and the wrist, not the arm. Think of the racket face guiding the shuttle over the tape rather than hitting it. If the shuttle floats up off the net, the opponent doesn't have to lift — and the whole purpose of the shot is lost.",
+          "videos": [
+            { "title": "Vijit — Net Shot", "url": "https://drive.google.com/file/d/14nHRrf5yOkz8rCKp1oaB_NpQByZUwoKU/view", "type": "gdrive", "students": ["vijit"] },
+            { "title": "Satvik — Net Shot", "url": "https://drive.google.com/file/d/11ectl1KThMsN6bvpTXDIHJYyOApLOd2U/view", "type": "gdrive", "students": ["satvik"] }
+          ]
+        },
+        {
+          "name": "Net Shot & Drop Shot — Multi-Shuttle Front & Rear",
+          "description": "Coach Z fed multi-shuttles alternating between the front court (for a net shot) and the rear court (for a drop shot), simulating the front-and-back movement pattern that quality net play creates in a real rally. The drill layers the touch work from Drill 2 onto live movement and tempo, training the body to maintain net shot quality even while traveling between corners.",
+          "students": ["satvik", "vijit"],
+          "notes": "Net shot quality has to survive the travel. The temptation under tempo is to muscle the net shot to get it over — that floats the shuttle and gives the kill back. Keep the touch soft even when the legs are tired. This is also where the footwork breakdown showed up most clearly — see the Critical Observations.",
+          "videos": [
+            { "title": "Vijit — Net Shot & Drop Shot (Multi-Shuttle)", "url": "https://drive.google.com/file/d/1cHc8981lLmFGXzjBY-vehOoCbED7xV30/view", "type": "gdrive", "students": ["vijit"] },
+            { "title": "Satvik — Net Shot & Drop Shot (Multi-Shuttle)", "url": "https://drive.google.com/file/d/1NyDz_aNCDjA3XJqDbbRNXGEqII_XGxS_/view", "type": "gdrive", "students": ["satvik"] }
+          ]
+        },
+        {
+          "name": "Net Shot & Drop Shot — One Shuttle (Coach Punishes Loose Net Shots)",
+          "description": "Live front-and-rear court drill with a single shuttle. Student plays a net shot at the front, recovers, then plays a drop shot from the rear. The constraint: if the net shot is loose — floats above the tape or sits up — Coach Z kills the shuttle. The punishment is the point: a quality net shot earns continued rally and attacking position; a poor net shot ends the rally on the opponent's terms.",
+          "students": ["satvik", "vijit"],
+          "notes": "This is where the technical purpose of the day comes together — a quality net shot forces the lift; a poor net shot gets killed. Recovery footwork after the net shot is just as important as the shot itself, because the opponent's lift (or kill attempt) is coming back fast and low. Pulling the dominant foot back instead of hopping leaves the body unloaded for the next ball.",
+          "videos": [
+            { "title": "Vijit — Net & Drop (One Shuttle)", "url": "https://drive.google.com/file/d/14CjJpS7AM7D96OvZpRVwi-ZRyegbHx2l/view", "type": "gdrive", "students": ["vijit"] },
+            { "title": "Satvik — Net & Drop (One Shuttle)", "url": "https://drive.google.com/file/d/1LKn2hN8MjmBgfMmxu26VyF1uBn4YtiMk/view", "type": "gdrive", "students": ["satvik"] }
+          ]
+        }
+      ],
+      "tips": [
+        { "text": "A quality net shot is the shot that forces the opponent to lift — it hugs the tape and gives them no option but to send the shuttle up. That lift is the entire reason the net shot exists; it is what hands you the attacking position to finish the rally.", "students": ["satvik", "vijit"] },
+        { "text": "The touch in a net shot comes from soft hands and finger control, not from the arm. Relax the grip until the moment of contact and let the racket face guide the shuttle over — the more you try to hit the net shot, the more it floats up to be killed.", "students": ["satvik", "vijit"] },
+        { "text": "In badminton, you can only be fast when you are slow. Clean footwork at a controlled pace builds the pattern; rushing the pattern before it is automatic produces the shortcuts — slides, early jumps, missed split steps — that look fast and play slow.", "students": ["satvik", "vijit"] },
+        { "text": "After a net shot, recover with a hop rather than pulling the dominant foot back. Pulling the foot back loads your weight away from the net just as the opponent's reply is coming back — a hop keeps you balanced and ready to attack the lift or cover a tight return.", "students": ["satvik", "vijit"] },
+        { "text": "The last step into the rear court should be a committed step that arrives under the shuttle, not a big slide that bails you out of incomplete travel. The slide feels efficient but kills the contact point and the recovery.", "students": ["vijit"] },
+        { "text": "Earn the jump — the jump in the rear court is the finish of the footwork, not a substitute for it. Travel to the shuttle first, commit to the hit, then let the jump come naturally. Jumping early disconnects the legs from the contact and leaves you off-balance for the next ball.", "students": ["satvik"] }
+      ],
+      "homework": [
+        {
+          "name": "Dynamic Warm-Up Drills (Carried Forward from Session 3)",
+          "description": "Continue performing the dynamic warm-up routine before every practice or workout. Activates the lower body and prepares the joints for explosive court movement.",
+          "students": ["satvik", "vijit"],
+          "videos": [
+            { "title": "Dynamic Warm-Up Routine", "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s", "type": "youtube", "students": [] }
+          ]
+        },
+        {
+          "name": "Jump Skip — Single & Double (Carried Forward from Session 5)",
+          "description": "Continue daily jump rope work — 1–2 minutes of single skips to establish bounce and rhythm, then progress to double skips. The bounce should come from the ankles and calves, not from lifting the knees to clear the rope.",
+          "students": ["satvik", "vijit"],
+          "videos": [
+            { "title": "Jump Skip Reference — YouTube Short", "url": "https://www.youtube.com/shorts/s8YjkbvShAQ", "type": "youtube", "students": [] }
+          ]
+        },
+        {
+          "name": "Lower-Body Strength — Squats & Lunges (Carried Forward from Session 6)",
+          "description": "Continue daily bodyweight squats and lunges to address the lower-body strength gap that limits explosive movement. Clean reps with full range of motion: knees tracking over toes on squats, front knee aligned over the ankle on lunges, torso upright, deliberate drive up through the heel.",
+          "students": ["satvik", "vijit"]
+        },
+        {
+          "name": "Shadow Footwork — Slow & Committed",
+          "description": "At home, in any open space: shadow the rear court footwork pattern at a deliberately slow pace. Take every step you need to arrive under the imaginary shuttle — no slides on the last step, no early jumps. The goal is repetition at a pace where the body has time to choose the correct pattern, so the pattern becomes the automatic response under match tempo.",
+          "students": ["satvik", "vijit"],
+          "notes": "Slow is the point. If you can't do it cleanly slow, you cannot do it cleanly fast — speed only locks in whatever pattern you have repeated most."
+        }
+      ],
+      "homeworkNote": "The technical headline of this session was the net shot, but the bigger headline is in the Critical Observations at the top. The next several sessions will focus on rebuilding clean rear court footwork — committed steps for Vijit, footwork before the jump for Satvik, and consistent split steps, low center of gravity, and proper recovery hops for both. The off-court strength and jump skip work is what makes that on-court work possible, so keep it daily.",
+      "tags": ["net shot", "drop shot", "front court", "rear court", "footwork", "multi-shuttle", "touch", "attacking position", "split step", "homework"]
     }
   ]
 }

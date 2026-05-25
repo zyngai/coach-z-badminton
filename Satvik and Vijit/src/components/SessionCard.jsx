@@ -13,6 +13,7 @@ export default function SessionCard({ session, students, activeStudent }) {
   const tips = filterItems(session.tips || [], activeStudent)
   const videos = filterItems(session.videos || [], activeStudent)
   const homework = filterItems(session.homework || [], activeStudent)
+  const observations = filterItems(session.observations || [], activeStudent)
 
   return (
     <article className="session-card">
@@ -46,6 +47,38 @@ export default function SessionCard({ session, students, activeStudent }) {
 
             {session.summary && (
               <p className="session-card__summary">{session.summary}</p>
+            )}
+
+            {observations.length > 0 && (
+              <div className="session-card__section session-card__observations">
+                <h3 className="session-card__section-title">
+                  <span className="session-card__observations-icon">&#9888;</span>
+                  Critical Observations — Focus for Next Sessions
+                </h3>
+                <ul className="session-card__observations-list">
+                  {observations.map((obs, i) => (
+                    <li key={i} className="session-card__observation">
+                      <span className="session-card__observation-text">{obs.text}</span>
+                      {obs.students?.length > 0 && obs.students.length < students.length && (
+                        <span className="tip-item__badges">
+                          {obs.students.map((sid) => {
+                            const student = students.find((s) => s.id === sid)
+                            return student ? (
+                              <span
+                                key={sid}
+                                className="student-badge"
+                                style={{ backgroundColor: student.avatarColor }}
+                              >
+                                {student.name}
+                              </span>
+                            ) : null
+                          })}
+                        </span>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+              </div>
             )}
 
             {drills.length > 0 && (

@@ -3,6 +3,7 @@ import { useSessionData } from './hooks/useSessionData'
 import Header from './components/Header'
 import StudentFilter from './components/StudentFilter'
 import SessionList from './components/SessionList'
+import Slogan from './components/Slogan'
 import './App.css'
 
 export default function App() {
@@ -39,6 +40,7 @@ export default function App() {
         activeStudent={activeStudent}
         onFilter={setActiveStudent}
       />
+      <Slogan />
       <SessionList
         sessions={data.sessions}
         students={data.students}

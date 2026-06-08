@@ -1,7 +1,15 @@
 {
   "students": [
-    { "id": "satvik", "name": "Satvik", "avatarColor": "#2563EB" },
-    { "id": "vijit", "name": "Vijit", "avatarColor": "#DC2626" }
+    {
+      "id": "satvik",
+      "name": "Satvik",
+      "avatarColor": "#2563EB"
+    },
+    {
+      "id": "vijit",
+      "name": "Vijit",
+      "avatarColor": "#DC2626"
+    }
   ],
   "sessions": [
     {
@@ -13,43 +21,88 @@
         {
           "name": "Ready Position & Resistance Band Work",
           "description": "Half-squat athletic stance with resistance band lateral, forward, and backward movement patterns.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Stay on the balls of your feet — keep the band tension throughout"
         },
         {
           "name": "Split Step Reaction — Drop & Catch",
           "description": "Shuttle dropped from height; execute a split step and catch it before it lands.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Focus on timing the split step, not just catching the shuttle"
         },
         {
           "name": "Bench Drop into Split Step",
           "description": "Step off a low bench, land with a split step, then push off in a given direction.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "The drop exaggerates the loading phase — feel the rhythm before adding speed"
         },
         {
           "name": "Directional Recovery",
           "description": "Shuttle thrown to mid-court; split step, read direction, recover, then move to the net.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Lead with the correct foot based on the direction you need to move"
         }
       ],
       "tips": [
-        { "text": "The split step is not a jump — it's a quick, controlled drop that loads energy for an explosive push-off", "students": ["satvik", "vijit"] },
-        { "text": "Initiate your split step just before your opponent makes contact with the shuttle", "students": ["satvik", "vijit"] },
-        { "text": "Always return to the ready position with a split step after every shot", "students": ["satvik", "vijit"] },
-        { "text": "Land with one foot slightly ahead of the other to create a directional advantage", "students": ["satvik", "vijit"] }
+        {
+          "text": "The split step is not a jump — it's a quick, controlled drop that loads energy for an explosive push-off",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Initiate your split step just before your opponent makes contact with the shuttle",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Always return to the ready position with a split step after every shot",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Land with one foot slightly ahead of the other to create a directional advantage",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        }
       ],
       "videos": [
         {
           "title": "The Split Step in Badminton — Badminton Insight",
           "url": "https://www.youtube.com/watch?v=gy4YZS5tGxE",
           "type": "youtube",
-          "students": ["satvik", "vijit"]
+          "students": [
+            "satvik",
+            "vijit"
+          ]
         }
       ],
-      "tags": ["split step", "footwork", "fundamentals", "ready position", "reaction"]
+      "tags": [
+        "split step",
+        "footwork",
+        "fundamentals",
+        "ready position",
+        "reaction"
+      ]
     },
     {
       "id": "2026-02-22",
@@ -61,60 +114,163 @@
         {
           "name": "Clear Technique Comparison",
           "description": "Side-by-side comparison of student clears against Coach Z's demonstration to identify form differences in contact point, body rotation, and follow-through.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Compare your form to Coach Z's video — pay attention to elbow height, weight transfer, and the snap at contact",
           "videos": [
-            { "title": "Satvik", "url": "https://drive.google.com/file/d/1KObnhuBiU9iJg0eP_b7xuEp56JuRj1ga/view", "type": "gdrive", "students": ["satvik"] },
-            { "title": "Vijit", "url": "https://drive.google.com/file/d/1SSo_iBqbqHnEPSYperRjG-xk8RTxI8IC/view", "type": "gdrive", "students": ["vijit"] },
-            { "title": "Coach Z", "url": "https://drive.google.com/file/d/17EIsClPPGEbtArdEVFnJEVYOkxZXccee/view", "type": "gdrive", "students": [] }
+            {
+              "title": "Satvik",
+              "url": "https://drive.google.com/file/d/1KObnhuBiU9iJg0eP_b7xuEp56JuRj1ga/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Vijit",
+              "url": "https://drive.google.com/file/d/1SSo_iBqbqHnEPSYperRjG-xk8RTxI8IC/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Coach Z",
+              "url": "https://drive.google.com/file/d/17EIsClPPGEbtArdEVFnJEVYOkxZXccee/view",
+              "type": "gdrive",
+              "students": []
+            }
           ]
         },
         {
           "name": "Tennis Ball Throw",
           "description": "Overhead throwing motion with a tennis ball to reinforce throwing mechanics and shoulder activation. Builds the correct arm swing pattern used in clears and smashes.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Both students showing excellent timing and coordination — the throwing motion translates directly into a better clear",
           "videos": [
-            { "title": "Satvik & Vijit", "url": "https://drive.google.com/file/d/11HI67FNRJNNTrQA82JgMz2fdu8UMYkxG/view", "type": "gdrive", "students": [] }
+            {
+              "title": "Satvik & Vijit",
+              "url": "https://drive.google.com/file/d/11HI67FNRJNNTrQA82JgMz2fdu8UMYkxG/view",
+              "type": "gdrive",
+              "students": []
+            }
           ]
         },
         {
           "name": "Clear with Shuttle Feeding (Stationary)",
           "description": "Coach-fed shuttles to practice clears from a fixed position — no movement, focusing purely on stroke technique. Emphasis on applying the timing and coordination developed from the tennis ball throw drill.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "The improvement from the tennis ball throw is evident here — focus on consistency and keeping the shuttle deep",
           "videos": [
-            { "title": "Satvik", "url": "https://drive.google.com/file/d/1cqR9ravFb5FVaNOQLzKuOtPQQugNcrnT/view", "type": "gdrive", "students": ["satvik"] },
-            { "title": "Vijit", "url": "https://drive.google.com/file/d/1wwQH44QtNHsw7ay4yLvzWI_MPR-9bvct/view", "type": "gdrive", "students": ["vijit"] }
+            {
+              "title": "Satvik",
+              "url": "https://drive.google.com/file/d/1cqR9ravFb5FVaNOQLzKuOtPQQugNcrnT/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Vijit",
+              "url": "https://drive.google.com/file/d/1wwQH44QtNHsw7ay4yLvzWI_MPR-9bvct/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            }
           ]
         },
         {
           "name": "Split Step & Footwork to the Rear Court",
           "description": "Combining split step timing from Session 1 with rear court footwork patterns — reading the shuttle direction and moving explosively to the back of the court.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Split step first, then pivot and drive off the outside foot to move to the rear court",
           "videos": [
-            { "title": "Coach Z Demo", "url": "https://drive.google.com/file/d/1Pp-eR7aRQnyIMAKmUgynVF9Vij7b6dVQ/view", "type": "gdrive", "students": [] }
+            {
+              "title": "Coach Z Demo",
+              "url": "https://drive.google.com/file/d/1Pp-eR7aRQnyIMAKmUgynVF9Vij7b6dVQ/view",
+              "type": "gdrive",
+              "students": []
+            }
           ]
         },
         {
           "name": "Rear Court Movement & Shots",
           "description": "Full rear court drill combining footwork with overhead shot execution. Moving to the shuttle, hitting the clear, and recovering to base position.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "This is the area that needs the most work — use a scissor kick to recover and avoid falling backwards after the shot",
           "videos": [
-            { "title": "Satvik", "url": "https://drive.google.com/file/d/1ndO31sI2mraSshnF5zLt1TKSooPPxEPs/view", "type": "gdrive", "students": ["satvik"] },
-            { "title": "Vijit", "url": "https://drive.google.com/file/d/1HMvVFSx2qnG9LDaJ_6UdSspmbouPvxRA/view", "type": "gdrive", "students": ["vijit"] }
+            {
+              "title": "Satvik",
+              "url": "https://drive.google.com/file/d/1ndO31sI2mraSshnF5zLt1TKSooPPxEPs/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Vijit",
+              "url": "https://drive.google.com/file/d/1HMvVFSx2qnG9LDaJ_6UdSspmbouPvxRA/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            }
           ]
         }
       ],
       "tips": [
-        { "text": "The throwing motion for a clear is the same as throwing a ball — if you can throw, you can clear", "students": ["satvik", "vijit"] },
-        { "text": "Hit the shuttle at the highest point you can reach — don't let it drop to your shoulder", "students": ["satvik", "vijit"] },
-        { "text": "A good clear should push your opponent deep behind the back service line", "students": ["satvik", "vijit"] },
-        { "text": "Always recover to base position after every rear court shot — don't admire your shot", "students": ["satvik", "vijit"] }
+        {
+          "text": "The throwing motion for a clear is the same as throwing a ball — if you can throw, you can clear",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Hit the shuttle at the highest point you can reach — don't let it drop to your shoulder",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "A good clear should push your opponent deep behind the back service line",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Always recover to base position after every rear court shot — don't admire your shot",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        }
       ],
-      "tags": ["clears", "rear court", "footwork", "throwing motion", "shuttle feeding", "split step"]
+      "tags": [
+        "clears",
+        "rear court",
+        "footwork",
+        "throwing motion",
+        "shuttle feeding",
+        "split step"
+      ]
     },
     {
       "id": "2026-03-01",
@@ -126,66 +282,153 @@
         {
           "name": "Dynamic Warm-Up",
           "description": "Progressive warm-up to prepare the lower body for footwork-intensive training. Included lateral shuffles, high knees, lunges, and court-length movement patterns to activate the key muscle groups used in directional changes.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Ensure full range of motion during the warm-up — cold muscles lead to inefficient movement and increased injury risk"
         },
         {
           "name": "Front Court Footwork Breakdown",
           "description": "Isolated front court movement patterns focusing on the lunge step, net approach, and recovery. Coach Z demonstrated proper technique including foot placement, body alignment, and push-off mechanics for efficient net coverage.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Lead with the racket foot, stay low through the lunge, and push off the heel to recover — do not drag the back foot",
           "videos": [
-            { "title": "Coach Z — Front Court Footwork", "url": "https://drive.google.com/file/d/1YoQKx4A1FKRnRMjUGi3DiZ5ZSmE9sXHE/view", "type": "gdrive", "students": [] }
+            {
+              "title": "Coach Z — Front Court Footwork",
+              "url": "https://drive.google.com/file/d/1YoQKx4A1FKRnRMjUGi3DiZ5ZSmE9sXHE/view",
+              "type": "gdrive",
+              "students": []
+            }
           ]
         },
         {
           "name": "Mid Court Sideline Footwork Breakdown",
           "description": "Lateral movement patterns for covering the mid court sidelines. Focused on the side-step shuffle, chasse step timing, and maintaining a low center of gravity while transitioning between forehand and backhand sides.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Stay compact through the lateral movement — wide steps waste time and leave you off-balance for the next shot"
         },
         {
           "name": "Rear Court Footwork Breakdown",
           "description": "Rear court movement patterns emphasizing the pivot, cross-step sequence, and scissor kick recovery. Coach Z demonstrated how to generate backward momentum while keeping the body weight forward for a controlled return to base.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "The scissor kick is essential — it reverses your momentum and propels you back toward center court instead of falling backwards",
           "videos": [
-            { "title": "Coach Z — Rear Court Footwork", "url": "https://drive.google.com/file/d/1QfUHbNnDEklVytPBPB7dTQzbnsqBfZsH/view", "type": "gdrive", "students": [] }
+            {
+              "title": "Coach Z — Rear Court Footwork",
+              "url": "https://drive.google.com/file/d/1QfUHbNnDEklVytPBPB7dTQzbnsqBfZsH/view",
+              "type": "gdrive",
+              "students": []
+            }
           ]
         },
         {
           "name": "Full Court Shadow Movement",
           "description": "Full court shadow drill with Coach Z calling directional cues to simulate real match scenarios. Students performed split steps, read Coach Z's directional signals, and executed the appropriate footwork pattern to cover all four corners of the court. The drill emphasized anticipation, split step timing, and seamless transitions between court zones.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Initiate the split step as Coach Z is about to signal — anticipate the direction, and if the read is wrong, redirect immediately without hesitation. After each shadow movement, recover toward center court at a controlled pace, but there is no obligation to fully return before the next cue. If the next direction is the same, conserve energy by holding position rather than resetting to center.",
           "videos": [
-            { "title": "Satvik — Full Court Shadow", "url": "https://drive.google.com/file/d/1ggvas4wL8VOsh5_ihaK8Q_XCyrCdu-Cq/view", "type": "gdrive", "students": ["satvik"] },
-            { "title": "Vijit — Full Court Shadow", "url": "https://drive.google.com/file/d/1VI0RchKAW1Yc6V2ClJM5HiFRfPf_GQXk/view", "type": "gdrive", "students": ["vijit"] }
+            {
+              "title": "Satvik — Full Court Shadow",
+              "url": "https://drive.google.com/file/d/1ggvas4wL8VOsh5_ihaK8Q_XCyrCdu-Cq/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Vijit — Full Court Shadow",
+              "url": "https://drive.google.com/file/d/1VI0RchKAW1Yc6V2ClJM5HiFRfPf_GQXk/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            }
           ]
         }
       ],
       "tips": [
-        { "text": "The split step should be timed to the opponent's point of contact — begin loading as Coach Z commits to a direction, and redirect if the initial read is wrong", "students": ["satvik", "vijit"] },
-        { "text": "Recovery toward center court should be gradual and controlled — there is no obligation to fully reset between movements, especially if the next cue targets the same zone", "students": ["satvik", "vijit"] },
-        { "text": "Prioritize controlled, deliberate movement over raw speed — efficient footwork at a slower pace builds the muscle memory needed to execute at full intensity later", "students": ["satvik"] },
-        { "text": "Avoid relying on brute force to cover the court — when the pace slows down, the footwork becomes noticeably cleaner and more energy-efficient", "students": ["satvik"] },
-        { "text": "In the rear court, eliminate the backward slide on the last step — use a scissor kick to pivot momentum forward and maintain balance through the recovery", "students": ["satvik"] },
-        { "text": "On front court lunges, land heel-first on the racket foot with toes pointing toward the shuttle — landing on the ball of the foot with the foot angled away increases the risk of an ankle sprain", "students": ["vijit"] },
-        { "text": "Maintain racket preparation in the rear court — keep the racket up and execute a compact, quick swing rather than dropping the racket head and waiting for the shuttle to arrive", "students": ["vijit"] }
+        {
+          "text": "The split step should be timed to the opponent's point of contact — begin loading as Coach Z commits to a direction, and redirect if the initial read is wrong",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Recovery toward center court should be gradual and controlled — there is no obligation to fully reset between movements, especially if the next cue targets the same zone",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Prioritize controlled, deliberate movement over raw speed — efficient footwork at a slower pace builds the muscle memory needed to execute at full intensity later",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "Avoid relying on brute force to cover the court — when the pace slows down, the footwork becomes noticeably cleaner and more energy-efficient",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "In the rear court, eliminate the backward slide on the last step — use a scissor kick to pivot momentum forward and maintain balance through the recovery",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "On front court lunges, land heel-first on the racket foot with toes pointing toward the shuttle — landing on the ball of the foot with the foot angled away increases the risk of an ankle sprain",
+          "students": [
+            "vijit"
+          ]
+        },
+        {
+          "text": "Maintain racket preparation in the rear court — keep the racket up and execute a compact, quick swing rather than dropping the racket head and waiting for the shuttle to arrive",
+          "students": [
+            "vijit"
+          ]
+        }
       ],
       "homework": [
         {
           "name": "Dynamic Warm-Up Drills",
           "description": "Follow along with the video below to complete a full dynamic warm-up routine. This can be done at home with minimal space and no equipment. Focus on full range of motion and controlled movement throughout each exercise.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "videos": [
-            { "title": "Dynamic Warm-Up Routine", "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s", "type": "youtube", "students": [] }
+            {
+              "title": "Dynamic Warm-Up Routine",
+              "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s",
+              "type": "youtube",
+              "students": []
+            }
           ]
         },
         {
           "name": "Full Court Shadow Movement",
           "description": "Perform full court shadow footwork with a partner (parent, sibling, or self-directed) calling out directional cues to simulate real match play. Apply the same principles covered in this session — split step on each cue, anticipate the direction, recover at a controlled pace, and focus on clean, efficient footwork over speed.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "No court or racket required — this can be done in any open space. The goal is repetition and building movement patterns into muscle memory."
         }
       ],
@@ -195,7 +438,17 @@
         "alt": "Young Coach Z practicing shadow movement footwork",
         "caption": "A young Coach Z putting in the work — shadow movement drills, day after day."
       },
-      "tags": ["footwork", "shadow movement", "front court", "mid court", "rear court", "split step", "court coverage", "anticipation", "homework"]
+      "tags": [
+        "footwork",
+        "shadow movement",
+        "front court",
+        "mid court",
+        "rear court",
+        "split step",
+        "court coverage",
+        "anticipation",
+        "homework"
+      ]
     },
     {
       "id": "2026-04-12",
@@ -207,68 +460,186 @@
         {
           "name": "Explosive Footwork — Rear Court Flat Clears & Front Court Pushes",
           "description": "Footwork patterns designed for fast, flat rally exchanges where reaction time is minimal. Unlike full court shadow movement, this drill emphasizes shorter, more explosive steps with rapid directional changes between the rear court and the net. The focus is on staying compact and balanced rather than taking large strides, allowing faster recovery and re-acceleration between shots.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "In fast exchanges there is no time for a full body rotation — stay compact, keep the base narrow, and drive off the balls of your feet. Every step should be deliberate and explosive, not long and reaching.",
           "videos": [
-            { "title": "Vijit — Footwork", "url": "https://drive.google.com/file/d/1Kuh1h8QKlP5y1B8swB2QD85Eru5CexsC/view", "type": "gdrive", "students": ["vijit"] },
-            { "title": "Satvik — Footwork", "url": "https://drive.google.com/file/d/156VuXKf5bRzYERAZku6UBZCGamKP7HaS/view", "type": "gdrive", "students": ["satvik"] }
+            {
+              "title": "Vijit — Footwork",
+              "url": "https://drive.google.com/file/d/1Kuh1h8QKlP5y1B8swB2QD85Eru5CexsC/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik — Footwork",
+              "url": "https://drive.google.com/file/d/156VuXKf5bRzYERAZku6UBZCGamKP7HaS/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            }
           ]
         },
         {
           "name": "Finger Squeeze Technique",
           "description": "Isolated finger squeeze drill to develop racket-head speed through grip pressure rather than arm swing. The technique involves a relaxed grip during preparation, followed by a sharp squeeze of the last three fingers at the moment of contact to generate a quick snap. This is the foundation for producing power in compact, time-pressured situations where a full swing is not possible.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Keep the grip loose until the point of contact — the power comes from the sudden squeeze, not from a tight grip throughout. Think of it as flicking a whip with your fingers.",
           "videos": [
-            { "title": "Finger Squeeze Exercise — Reference", "url": "https://www.youtube.com/shorts/glirzAeABAI", "type": "youtube", "students": [] },
-            { "title": "Finger Squeeze — Today's Lesson", "url": "https://drive.google.com/file/d/1ubUZbT07SaVmdSas8cWUhRMY9uRUZ9pH/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+            {
+              "title": "Finger Squeeze Exercise — Reference",
+              "url": "https://www.youtube.com/shorts/glirzAeABAI",
+              "type": "youtube",
+              "students": []
+            },
+            {
+              "title": "Finger Squeeze — Today's Lesson",
+              "url": "https://drive.google.com/file/d/1ubUZbT07SaVmdSas8cWUhRMY9uRUZ9pH/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            }
           ]
         },
         {
           "name": "Forearm Pronation with Finger Squeeze",
           "description": "Building on the finger squeeze technique, this drill introduces forearm pronation — the inward rotation of the forearm that converts grip pressure into directed racket-head speed. Students practiced combining the finger squeeze at contact with a controlled pronation to produce flat, punchy shots without relying on shoulder rotation or a full arm swing.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "The finger squeeze initiates the power; the pronation directs it. Keep the elbow relatively still — the rotation should come from the forearm, not the entire arm.",
           "videos": [
-            { "title": "Vijit — Forearm Pronation", "url": "https://drive.google.com/file/d/19vZbpoFgaVldWBnA_3GZKfh6TYFniLWm/view", "type": "gdrive", "students": ["vijit"] },
-            { "title": "Satvik — Forearm Pronation", "url": "https://drive.google.com/file/d/1QvV1tWtjdSp96BLItIXbHGQ2UCtEaOto/view", "type": "gdrive", "students": ["satvik"] }
+            {
+              "title": "Vijit — Forearm Pronation",
+              "url": "https://drive.google.com/file/d/19vZbpoFgaVldWBnA_3GZKfh6TYFniLWm/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik — Forearm Pronation",
+              "url": "https://drive.google.com/file/d/1QvV1tWtjdSp96BLItIXbHGQ2UCtEaOto/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            }
           ]
         },
         {
           "name": "Multi-Directional Shuttle Feeding",
           "description": "Progressive shuttle feeding drill that increased court coverage in three stages: (1) single overhead corner to isolate overhead timing, (2) two rear court corners to introduce lateral movement under pressure, and (3) full court coverage incorporating all four corners. This drill tied together the footwork, finger squeeze, and pronation skills from earlier in the session under match-like intensity.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Execute a split step before every feed — read the shuttle direction early and commit to explosive first steps. Recover toward center court with a low center of gravity to maintain the ability to re-accelerate in any direction.",
           "videos": [
-            { "title": "Vijit — Shuttle Feed", "url": "https://drive.google.com/file/d/1JIFGFBOcjkFr3o-mxadkzd2pYQyCkFL7/view", "type": "gdrive", "students": ["vijit"] },
-            { "title": "Satvik — Shuttle Feed", "url": "https://drive.google.com/file/d/1yusAc57EsC3UNOmkBstGLO9cNIueX73C/view", "type": "gdrive", "students": ["satvik"] }
+            {
+              "title": "Vijit — Shuttle Feed",
+              "url": "https://drive.google.com/file/d/1JIFGFBOcjkFr3o-mxadkzd2pYQyCkFL7/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik — Shuttle Feed",
+              "url": "https://drive.google.com/file/d/1yusAc57EsC3UNOmkBstGLO9cNIueX73C/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            }
           ]
         }
       ],
       "tips": [
-        { "text": "Split steps are still being skipped during footwork and shuttle feeding — every directional change must begin with a split step, no exceptions. Without it, the first step is slow and reactive instead of explosive and anticipatory.", "students": ["satvik", "vijit"] },
-        { "text": "When recovering to center court, lower your center of gravity and stay loaded — standing upright and coasting back makes it significantly harder to re-accelerate to the next shot. Recovery is not a rest; it is preparation for the next movement.", "students": ["satvik", "vijit"] },
-        { "text": "Front court pushes need more touch and finesse — the shuttle is being hit too hard and without enough control. Focus on a soft grip and precise placement rather than forcing the shuttle down.", "students": ["satvik", "vijit"] },
-        { "text": "The rear court overhead corner (round-the-head side) is still unfamiliar — expect this to feel awkward initially, but commit to the footwork pattern and trust the positioning. This will improve with repetition.", "students": ["satvik", "vijit"] },
-        { "text": "Forehand rear court corner is looking strong — the footwork and shot execution are clean. Carry this same confidence and commitment into the overhead corner.", "students": ["satvik", "vijit"] }
+        {
+          "text": "Split steps are still being skipped during footwork and shuttle feeding — every directional change must begin with a split step, no exceptions. Without it, the first step is slow and reactive instead of explosive and anticipatory.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "When recovering to center court, lower your center of gravity and stay loaded — standing upright and coasting back makes it significantly harder to re-accelerate to the next shot. Recovery is not a rest; it is preparation for the next movement.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Front court pushes need more touch and finesse — the shuttle is being hit too hard and without enough control. Focus on a soft grip and precise placement rather than forcing the shuttle down.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "The rear court overhead corner (round-the-head side) is still unfamiliar — expect this to feel awkward initially, but commit to the footwork pattern and trust the positioning. This will improve with repetition.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Forehand rear court corner is looking strong — the footwork and shot execution are clean. Carry this same confidence and commitment into the overhead corner.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        }
       ],
       "homework": [
         {
           "name": "Dynamic Warm-Up Drills (Revisited from Session 3)",
           "description": "Continue performing the dynamic warm-up routine before every practice session or physical activity. This routine activates the lower body and prepares the joints and muscles for explosive court movement. Consistency with this warm-up will directly improve on-court readiness and reduce injury risk.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "videos": [
-            { "title": "Dynamic Warm-Up Routine", "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s", "type": "youtube", "students": [] }
+            {
+              "title": "Dynamic Warm-Up Routine",
+              "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s",
+              "type": "youtube",
+              "students": []
+            }
           ]
         },
         {
           "name": "Lunges — Strength & Stability",
           "description": "Perform sets of forward lunges, lateral lunges, and walking lunges daily. Focus on keeping the front knee aligned over the ankle, maintaining an upright torso, and driving up through the heel. Strong lunges translate directly into deeper, more stable court movement and faster recovery from the front and rear court.",
-          "students": ["satvik", "vijit"]
+          "students": [
+            "satvik",
+            "vijit"
+          ]
         }
       ],
       "homeworkNote": "The split step and low recovery are fundamentals that must become second nature — they cannot be skipped in faster rallies. Prioritize the lunge exercises to build the leg strength needed for explosive, low movement. Even 10 minutes of lunges and shadow footwork a few times a week will make a noticeable difference by the next session.",
-      "tags": ["footwork", "finger squeeze", "forearm pronation", "flat clear", "front court push", "shuttle feeding", "fast rallies", "split step", "homework"]
+      "tags": [
+        "footwork",
+        "finger squeeze",
+        "forearm pronation",
+        "flat clear",
+        "front court push",
+        "shuttle feeding",
+        "fast rallies",
+        "split step",
+        "homework"
+      ]
     },
     {
       "id": "2026-04-26",
@@ -280,62 +651,165 @@
         {
           "name": "Jump Skip Progression — Single to Double Unders",
           "description": "Jump rope skipping starting with single unders to establish rhythm and bounce, then progressing to double unders for elasticity and timing. Jump skipping is a core off-court tool for badminton — it builds the same elastic, ground-reactive bounce that powers split steps, push-offs, and recovery between shots.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Both students defaulted to lifting their legs to clear the rope rather than driving the bounce from the calves and ankles. Lifting the knees disconnects the movement from the ground reaction force — which is the exact energy you want to recycle on court. After a few corrections both began bouncing more from the lower legs and the rhythm cleaned up significantly.",
           "videos": [
-            { "title": "Satvik & Vijit — Jump Skip", "url": "https://drive.google.com/file/d/1sMcOqsR7yMRh7epdxqNKeVN9iqkYFaWx/view", "type": "gdrive", "students": ["satvik", "vijit"] },
-            { "title": "Jump Skip Reference — YouTube Short", "url": "https://www.youtube.com/shorts/s8YjkbvShAQ", "type": "youtube", "students": [] }
+            {
+              "title": "Satvik & Vijit — Jump Skip",
+              "url": "https://drive.google.com/file/d/1sMcOqsR7yMRh7epdxqNKeVN9iqkYFaWx/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            },
+            {
+              "title": "Jump Skip Reference — YouTube Short",
+              "url": "https://www.youtube.com/shorts/s8YjkbvShAQ",
+              "type": "youtube",
+              "students": []
+            }
           ]
         },
         {
           "name": "Footwork — Split Step & Push-Off Revisited",
           "description": "Targeted footwork block to revisit split step timing and push-off mechanics. Students loaded energy through a split step, then drove off the outside foot in the called direction. The drill explicitly contrasted the push-off against the shuffle step — a passive sliding movement that does not generate force from the ground.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "There is still a lot of work to do here. The default movement for both students remains the shuffle step, with the push-off being the exception rather than the rule. This will take time before it becomes second nature — repeat it until the body chooses the push-off automatically, even when tired.",
           "videos": [
-            { "title": "Satvik — Split Step & Push-Off", "url": "https://drive.google.com/file/d/1czwpz0dQxHxaxVrdLN40ZW3E5rtZSyc-/view", "type": "gdrive", "students": ["satvik"] },
-            { "title": "Vijit — Split Step & Push-Off", "url": "https://drive.google.com/file/d/1P-cKlGLhXADs-AejpIAW07KgvLaSPv2Z/view", "type": "gdrive", "students": ["vijit"] },
-            { "title": "Split Step & Push-Off Reference — YouTube Short", "url": "https://www.youtube.com/shorts/isMgytoFn5o", "type": "youtube", "students": [] }
+            {
+              "title": "Satvik — Split Step & Push-Off",
+              "url": "https://drive.google.com/file/d/1czwpz0dQxHxaxVrdLN40ZW3E5rtZSyc-/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Vijit — Split Step & Push-Off",
+              "url": "https://drive.google.com/file/d/1P-cKlGLhXADs-AejpIAW07KgvLaSPv2Z/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Split Step & Push-Off Reference — YouTube Short",
+              "url": "https://www.youtube.com/shorts/isMgytoFn5o",
+              "type": "youtube",
+              "students": []
+            }
           ]
         },
         {
           "name": "Rear Court High Clear Rally with Coach Z",
           "description": "Live rally between Vijit and Coach Z, focused on sustained rear court high clears. The drill applied the day's footwork emphasis under continuous rally pressure — reading the shuttle, moving to the rear court, executing the clear, and recovering for the next exchange.",
-          "students": ["vijit"],
+          "students": [
+            "vijit"
+          ],
           "notes": "Footwork can still be more efficient — too many small steps and not enough commitment to a clean push-off recovery between shots. That said, Vijit was able to hold a rally with Coach Z, which is a meaningful step up in shot consistency and shows the rear court clear technique is starting to hold up under live conditions.",
           "videos": [
-            { "title": "Vijit — Rear Court Rally", "url": "https://drive.google.com/file/d/1waakfdQQwivIwNwYwcSb2pEnfCsJNrf6/view", "type": "gdrive", "students": ["vijit"] }
+            {
+              "title": "Vijit — Rear Court Rally",
+              "url": "https://drive.google.com/file/d/1waakfdQQwivIwNwYwcSb2pEnfCsJNrf6/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            }
           ]
         }
       ],
       "tips": [
-        { "text": "The bounce in jump skipping should come from the ankles and calves — keep the legs relatively straight and let the ground reaction force do the work. Lifting the knees to clear the rope is a sign that you are not using the elastic bounce that powers explosive court movement.", "students": ["satvik", "vijit"] },
-        { "text": "Progress single skips before double skips. Master the rhythm and bounce on singles first — double unders punish poor mechanics by tripping you up, which is itself useful feedback that the bounce is not coming from the right place.", "students": ["satvik", "vijit"] },
-        { "text": "Split steps load energy; push-offs release it. A shuffle step does neither — it just slides you sideways without generating any force off the ground. Every directional change should begin with a split step and end with a clean push-off, not a chain of small slides.", "students": ["satvik", "vijit"] },
-        { "text": "The push-off will feel slower and more awkward than shuffling at first — that is expected. Speed only comes after the pattern becomes second nature. Rushing the technique now just reinforces the shuffle habit you are trying to replace.", "students": ["satvik", "vijit"] },
-        { "text": "In a rear court rally, do not stop moving after the shot — recover with intent. Idle steps between shots are wasted reaction time and will catch up to you against a quicker opponent.", "students": ["vijit"] }
+        {
+          "text": "The bounce in jump skipping should come from the ankles and calves — keep the legs relatively straight and let the ground reaction force do the work. Lifting the knees to clear the rope is a sign that you are not using the elastic bounce that powers explosive court movement.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Progress single skips before double skips. Master the rhythm and bounce on singles first — double unders punish poor mechanics by tripping you up, which is itself useful feedback that the bounce is not coming from the right place.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Split steps load energy; push-offs release it. A shuffle step does neither — it just slides you sideways without generating any force off the ground. Every directional change should begin with a split step and end with a clean push-off, not a chain of small slides.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "The push-off will feel slower and more awkward than shuffling at first — that is expected. Speed only comes after the pattern becomes second nature. Rushing the technique now just reinforces the shuffle habit you are trying to replace.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "In a rear court rally, do not stop moving after the shot — recover with intent. Idle steps between shots are wasted reaction time and will catch up to you against a quicker opponent.",
+          "students": [
+            "vijit"
+          ]
+        }
       ],
       "homework": [
         {
           "name": "Dynamic Warm-Up Drills (Revisited from Session 3)",
           "description": "Continue performing the dynamic warm-up routine before every practice session or workout. The routine activates the lower body and prepares the joints and muscles for explosive court movement. Consistency with this warm-up directly improves on-court readiness and reduces injury risk.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "videos": [
-            { "title": "Dynamic Warm-Up Routine", "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s", "type": "youtube", "students": [] }
+            {
+              "title": "Dynamic Warm-Up Routine",
+              "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s",
+              "type": "youtube",
+              "students": []
+            }
           ]
         },
         {
           "name": "Jump Skip — Single Skips, then Double Skips",
           "description": "Daily jump rope practice. Begin with 1–2 minutes of single skips to establish a clean bounce and rhythm, then progress into double skips. Focus on bouncing from the ankles and calves — keep the knees relatively straight and let the elastic recoil of the lower legs do the work, instead of lifting the knees to clear the rope.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Build duration before complexity — a clean two-minute set of single skips is more valuable than a sloppy attempt at double unders. Progress to doubles only once the bounce on singles feels effortless and is sourced from the calves.",
           "videos": [
-            { "title": "Jump Skip Reference — YouTube Short", "url": "https://www.youtube.com/shorts/s8YjkbvShAQ", "type": "youtube", "students": [] }
+            {
+              "title": "Jump Skip Reference — YouTube Short",
+              "url": "https://www.youtube.com/shorts/s8YjkbvShAQ",
+              "type": "youtube",
+              "students": []
+            }
           ]
         }
       ],
       "homeworkNote": "Jump skipping is one of the highest-leverage off-court drills you can do — it directly builds the bounce, ankle stiffness, and rhythm that translate into split step and push-off explosiveness on court. Combined with the dynamic warm-up, even a short daily routine at home will compound into noticeable on-court improvement by the next session.",
-      "tags": ["jump skip", "jump rope", "footwork", "split step", "push-off", "rear court", "high clear", "rally", "conditioning", "homework"]
+      "tags": [
+        "jump skip",
+        "jump rope",
+        "footwork",
+        "split step",
+        "push-off",
+        "rear court",
+        "high clear",
+        "rally",
+        "conditioning",
+        "homework"
+      ]
     },
     {
       "id": "2026-05-03",
@@ -347,85 +821,222 @@
         {
           "name": "Frog Jump → Four-Corner Footwork (Lunge Front, Vertical Jump Rear)",
           "description": "Plyometric-anchored footwork drill. Each repetition starts with a frog jump to load the legs, followed by movement to one of the four corners — a deep lunge at the front court corners and a vertical jump simulating an overhead contact at the rear court corners. Builds the explosive ground reaction force that powers first-step acceleration, committed front-court lunges, and high overhead reach.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Both students lack the lower-body and core strength needed to fully transfer the frog jump's loading into the next movement — by the second or third corner the bounce flattens, lunge depth shortens, and the vertical jump loses height. This is a strength gap, not a technique gap. Expect this drill to return regularly until the legs catch up.",
           "videos": [
-            { "title": "Vijit — Frog Jump 4-Corner Footwork", "url": "https://drive.google.com/file/d/1Qpz1M1JlMikgF7FRcgmVxCR9p5SL4lIB/view", "type": "gdrive", "students": ["vijit"] },
-            { "title": "Satvik — Frog Jump 4-Corner Footwork", "url": "https://drive.google.com/file/d/1wSY5-LA1x1XUSyp5ODmZzRlJa_VBVfsu/view", "type": "gdrive", "students": ["satvik"] }
+            {
+              "title": "Vijit — Frog Jump 4-Corner Footwork",
+              "url": "https://drive.google.com/file/d/1Qpz1M1JlMikgF7FRcgmVxCR9p5SL4lIB/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik — Frog Jump 4-Corner Footwork",
+              "url": "https://drive.google.com/file/d/1wSY5-LA1x1XUSyp5ODmZzRlJa_VBVfsu/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            }
           ]
         },
         {
           "name": "Frog Jump + Multi-Shuttle Reactivity",
           "description": "Coach Z layered reactivity onto the frog jump base by feeding a shuttle to a random direction immediately after each jump. Students read the feed, redirected mid-air or on landing, and played the shot. The drill bridges the gap between dry plyometric output and live reactive court movement, training the body to stay explosive while reacting under time pressure.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Under reaction stress the natural tendency is to abandon the explosive base and revert to shuffling. The goal here is to keep the legs loaded and continue driving from the ground even when the eyes and mind take over — that habit is what carries explosiveness from the drill into a real rally.",
           "videos": [
-            { "title": "Satvik & Vijit — Frog Jump + Multi-Shuttle", "url": "https://drive.google.com/file/d/1EFo9xV28aFsFkXTbpnt9o8yqsPnCCKm1/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+            {
+              "title": "Satvik & Vijit — Frog Jump + Multi-Shuttle",
+              "url": "https://drive.google.com/file/d/1EFo9xV28aFsFkXTbpnt9o8yqsPnCCKm1/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            }
           ]
         },
         {
           "name": "Multi-Shuttle Serving — Open Court Coverage",
           "description": "Continuous multi-shuttle feeding from Coach Z, varying direction and depth across the full court. The drill applies the explosive lower-body power developed earlier in the session under sustained game-like tempo, with no scripted sequence — students must read each feed and commit to a clean first step.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "The hope is that the explosiveness from the frog jump work begins to surface here as quicker first steps and more committed lunges and jumps under continuous feeding. Early days — carryover from plyometric work to live reactivity tends to consolidate gradually as both the strength and the motor patterns mature.",
           "videos": [
-            { "title": "Satvik & Vijit — Multi-Shuttle 1", "url": "https://drive.google.com/file/d/1aYTIn2xB7mRaRqqDEFZWNkUH5j-H5M4O/view", "type": "gdrive", "students": ["satvik", "vijit"] },
-            { "title": "Satvik & Vijit — Multi-Shuttle 2", "url": "https://drive.google.com/file/d/17zIRN1CIGLysKhQTHEuqFJw7XJxLvBJD/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+            {
+              "title": "Satvik & Vijit — Multi-Shuttle 1",
+              "url": "https://drive.google.com/file/d/1aYTIn2xB7mRaRqqDEFZWNkUH5j-H5M4O/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik & Vijit — Multi-Shuttle 2",
+              "url": "https://drive.google.com/file/d/17zIRN1CIGLysKhQTHEuqFJw7XJxLvBJD/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            }
           ]
         },
         {
           "name": "2 vs 1 Court Drill",
           "description": "Two-against-one court play to apply footwork, court coverage, and shot selection under realistic point-construction pressure. The 2v1 format compresses reaction time and forces faster decisions than open feeding, making it the closest drill to live match conditions before the actual games.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Fatigue was clearly a factor by this point in the session — pace of movement and shot quality dropped noticeably as the rallies extended. This is consistent with the lower-body strength gap identified earlier and reinforces why plyometric and conditioning work is a recurring priority.",
           "videos": [
-            { "title": "Satvik & Vijit — 2 vs 1", "url": "https://drive.google.com/file/d/1L4SK4UJMagvUEQPHBQx-Hg6uGYibyiFi/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+            {
+              "title": "Satvik & Vijit — 2 vs 1",
+              "url": "https://drive.google.com/file/d/1L4SK4UJMagvUEQPHBQx-Hg6uGYibyiFi/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            }
           ]
         },
         {
           "name": "Full-Court Singles — Match Play",
           "description": "Two full-court singles games between Satvik and Vijit to close the session. The intent is to test whether the day's drill work — plyometric loading, footwork, reactivity — begins to surface in unscripted point play, where decisions are continuous and there is no coach feeding the next ball.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Translation from drill to game is still a work in progress. Footwork quality, split-step timing, and shot selection all regress under live match pressure compared to the controlled drill environment. This is expected at this stage — match application is the slowest skill to develop and only consolidates after the underlying movement and strength foundations are solid.",
           "videos": [
-            { "title": "Satvik vs Vijit — Game 1", "url": "https://drive.google.com/file/d/15eFemMDkBpXDEZN_Dx3FdCfiOAWjE6ei/view", "type": "gdrive", "students": ["satvik", "vijit"] },
-            { "title": "Satvik vs Vijit — Game 2", "url": "https://drive.google.com/file/d/1NIc8ZeyF7pRaEHDPCBJYxpuSv7mr28ME/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+            {
+              "title": "Satvik vs Vijit — Game 1",
+              "url": "https://drive.google.com/file/d/15eFemMDkBpXDEZN_Dx3FdCfiOAWjE6ei/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik vs Vijit — Game 2",
+              "url": "https://drive.google.com/file/d/1NIc8ZeyF7pRaEHDPCBJYxpuSv7mr28ME/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            }
           ]
         }
       ],
       "tips": [
-        { "text": "Frog jumps are not about how high you jump — they are about how forcefully you push the ground away. The point is training the legs to deliver maximum force in minimum time, which is the same skill that powers a fast first step, a deep lunge, and a high overhead contact.", "students": ["satvik", "vijit"] },
-        { "text": "Lower-body strength is currently the rate-limiter on explosiveness. Drills can teach the pattern, but the legs must be strong enough to express it — this is why the frog jump work and supporting strength training will keep coming back as a priority.", "students": ["satvik", "vijit"] },
-        { "text": "When reactivity is added (multi-shuttle, 2v1, games), the default tendency is to abandon the explosive base and revert to shuffling. Notice when this happens and consciously stay loaded — the goal of the drills is to make explosive movement the automatic response, not the exception.", "students": ["satvik", "vijit"] },
-        { "text": "Drill quality and game quality move at different speeds. Match play will look rougher than the drill for a long time — that is normal. The drill quality is what builds the ceiling, and the game quality climbs toward it later, not in the same session.", "students": ["satvik", "vijit"] },
-        { "text": "Manage fatigue honestly. When rallies in 2v1 or singles slow down, that is the body signaling the strength reserve is running low — push through where it is safe, but read it as confirmation that off-court conditioning is the missing piece, not a sign of weak willpower.", "students": ["satvik", "vijit"] }
+        {
+          "text": "Frog jumps are not about how high you jump — they are about how forcefully you push the ground away. The point is training the legs to deliver maximum force in minimum time, which is the same skill that powers a fast first step, a deep lunge, and a high overhead contact.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Lower-body strength is currently the rate-limiter on explosiveness. Drills can teach the pattern, but the legs must be strong enough to express it — this is why the frog jump work and supporting strength training will keep coming back as a priority.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "When reactivity is added (multi-shuttle, 2v1, games), the default tendency is to abandon the explosive base and revert to shuffling. Notice when this happens and consciously stay loaded — the goal of the drills is to make explosive movement the automatic response, not the exception.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Drill quality and game quality move at different speeds. Match play will look rougher than the drill for a long time — that is normal. The drill quality is what builds the ceiling, and the game quality climbs toward it later, not in the same session.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Manage fatigue honestly. When rallies in 2v1 or singles slow down, that is the body signaling the strength reserve is running low — push through where it is safe, but read it as confirmation that off-court conditioning is the missing piece, not a sign of weak willpower.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        }
       ],
       "homework": [
         {
           "name": "Dynamic Warm-Up Drills (Carried Forward from Session 3)",
           "description": "Continue performing the dynamic warm-up routine before every practice or workout. Activates the lower body and prepares the joints for explosive court movement and plyometric work.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "videos": [
-            { "title": "Dynamic Warm-Up Routine", "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s", "type": "youtube", "students": [] }
+            {
+              "title": "Dynamic Warm-Up Routine",
+              "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s",
+              "type": "youtube",
+              "students": []
+            }
           ]
         },
         {
           "name": "Jump Skip — Single & Double (Carried Forward from Session 5)",
           "description": "Continue daily jump rope work — 1–2 minutes of single skips to establish bounce and rhythm, then progress to double skips. The bounce should come from the ankles and calves, not from lifting the knees to clear the rope.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "videos": [
-            { "title": "Jump Skip Reference — YouTube Short", "url": "https://www.youtube.com/shorts/s8YjkbvShAQ", "type": "youtube", "students": [] }
+            {
+              "title": "Jump Skip Reference — YouTube Short",
+              "url": "https://www.youtube.com/shorts/s8YjkbvShAQ",
+              "type": "youtube",
+              "students": []
+            }
           ]
         },
         {
           "name": "Lower-Body Strength — Squats & Lunges",
           "description": "Bodyweight squats and lunges performed daily to address the lower-body strength gap identified during this session. Aim for clean, controlled reps with full range of motion: knees tracking over toes on squats, front knee aligned over the ankle on lunges, torso upright, and a deliberate drive up through the heel. Strong legs are the foundation that lets explosive plyometric work — frog jumps, jump skips, split steps — actually translate to on-court speed and power.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Quality before quantity. A handful of clean reps a day beats a sloppy long set — and sloppy reps train sloppy movement. Build duration gradually as the legs adapt."
         }
       ],
       "homeworkNote": "The biggest finding from this session is that lower-body strength is the rate-limiter on explosiveness. The plyometric and on-court work in class can only express what the legs are strong enough to deliver — so the off-court strength work (squats, lunges, jump skips) is no longer optional. Even 10–15 minutes a day, a few times a week, will compound quickly. Expect noticeable carryover into match play once the strength base catches up.",
-      "tags": ["plyometrics", "frog jump", "footwork", "multi-shuttle", "2v1", "match play", "full court", "lower body strength", "conditioning", "homework"]
+      "tags": [
+        "plyometrics",
+        "frog jump",
+        "footwork",
+        "multi-shuttle",
+        "2v1",
+        "match play",
+        "full court",
+        "lower body strength",
+        "conditioning",
+        "homework"
+      ]
     },
     {
       "id": "2026-05-23",
@@ -434,95 +1045,439 @@
       "takeaway": "The technical focus of this session was the quality net shot — the shot that forces the opponent to lift the shuttle and hands you the attacking position. Work progressed from a footwork warm-up, into a touch reassessment at the net, then into fed multi-shuttle and finally live single-shuttle front-and-rear court play where a poor net shot was punished with a kill. The day surfaced a more important throughline: footwork quality collapses the moment a shuttle is added. Rear court movement in particular reverted to old habits — Vijit cheating the last step with a big slide, Satvik jumping before committing to the travel — and these will be the central focus of the next several sessions. Theme to internalize: \"In badminton, you can only be fast when you are slow.\"",
       "summary": "Session built around the net shot as the setup for attack — forcing the opponent to lift and putting you in position to finish the rally. The structure moved from isolated footwork (pick-and-toss to the rear court), to net shot touch reassessment, to multi-shuttle front-and-rear feeding under tempo, to a live one-shuttle front-and-rear drill where the coach killed any loose net shot. The technical work was solid, but the more critical observation was how quickly footwork fundamentals degraded once shuttles were involved — see the Critical Observations section above.",
       "observations": [
-        { "text": "Rear court footwork: tends to take a big slide on the last step instead of taking enough steps to reach properly under the shuttle. The 'cheeky' shortcut breaks the continuation of the footwork pattern and leaves the contact point and recovery compromised.", "students": ["vijit"] },
-        { "text": "Rear court footwork: defaults to a jump on every rear court shot, and jumps too early — before committing to the footwork travel and before the intent to hit is clear. Likely picked up from watching pros jump-smash without seeing the footwork that sets it up. The jump is the finish, not the travel.", "students": ["satvik"] },
-        { "text": "Theme for the next sessions — \"In badminton, you can only be fast when you are slow.\" Speed is the byproduct of clean, committed footwork done at a controlled pace. Rushing the pattern before it is automatic produces shortcuts (slides, early jumps) that look fast and play slow.", "students": ["satvik", "vijit"] },
-        { "text": "Footwork quality dropped noticeably the moment a shuttle was introduced. The drills without a shuttle looked acceptable; the moment the eyes had to track and the racket had to swing, the footwork reverted to old habits. The next sessions will deliberately bridge that gap.", "students": ["satvik", "vijit"] },
-        { "text": "Recurring issue — split steps are still being skipped or done at the wrong time. Without the split step, the first step is reactive instead of explosive and the rest of the footwork pattern starts late.", "students": ["satvik", "vijit"] },
-        { "text": "Recurring issue — center of gravity is not low enough during movement and recovery. Standing tall makes every push-off slower and every change of direction harder.", "students": ["satvik", "vijit"] },
-        { "text": "Recurring issue — habit of pulling the dominant foot back instead of doing a hop. This loads the body weight backward and makes it very hard to return a tight net shot played by the opponent, which is exactly the situation the day's drills were designed to create.", "students": ["satvik", "vijit"] }
+        {
+          "text": "Rear court footwork: tends to take a big slide on the last step instead of taking enough steps to reach properly under the shuttle. The 'cheeky' shortcut breaks the continuation of the footwork pattern and leaves the contact point and recovery compromised.",
+          "students": [
+            "vijit"
+          ]
+        },
+        {
+          "text": "Rear court footwork: defaults to a jump on every rear court shot, and jumps too early — before committing to the footwork travel and before the intent to hit is clear. Likely picked up from watching pros jump-smash without seeing the footwork that sets it up. The jump is the finish, not the travel.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "Theme for the next sessions — \"In badminton, you can only be fast when you are slow.\" Speed is the byproduct of clean, committed footwork done at a controlled pace. Rushing the pattern before it is automatic produces shortcuts (slides, early jumps) that look fast and play slow.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Footwork quality dropped noticeably the moment a shuttle was introduced. The drills without a shuttle looked acceptable; the moment the eyes had to track and the racket had to swing, the footwork reverted to old habits. The next sessions will deliberately bridge that gap.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Recurring issue — split steps are still being skipped or done at the wrong time. Without the split step, the first step is reactive instead of explosive and the rest of the footwork pattern starts late.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Recurring issue — center of gravity is not low enough during movement and recovery. Standing tall makes every push-off slower and every change of direction harder.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Recurring issue — habit of pulling the dominant foot back instead of doing a hop. This loads the body weight backward and makes it very hard to return a tight net shot played by the opponent, which is exactly the situation the day's drills were designed to create.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        }
       ],
       "drills": [
         {
           "name": "Pick & Toss — Front to Rear Court Footwork",
           "description": "Footwork warm-up to load the rear court travel pattern without the complication of a racket. Students pick up a shuttle from the front court, shuffle/travel back to the rear court, and throw the shuttle from a rear court position. The throwing motion at the back mimics the overhead contact, so the drill rehearses both the footwork pattern and the kinetic chain that ends in the shot.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "The point of this drill is the travel, not the throw. Commit to enough steps to arrive under the shuttle — don't cheat the last step with a big slide, and don't substitute a jump for the footwork. The slower the pattern, the cleaner the habit being built.",
           "videos": [
-            { "title": "Pick & Toss — Footwork", "url": "https://drive.google.com/file/d/12oLh_6eon1lhQ_EpPtAHAJBFrRL5d7Ai/view", "type": "gdrive", "students": ["satvik", "vijit"] },
-            { "title": "Pick & Toss — Footwork 2", "url": "https://drive.google.com/file/d/1s1O6cp1mbOQRVI1ZLHWxBOChk9Pv7ACf/view", "type": "gdrive", "students": ["satvik", "vijit"] }
+            {
+              "title": "Pick & Toss — Footwork",
+              "url": "https://drive.google.com/file/d/12oLh_6eon1lhQ_EpPtAHAJBFrRL5d7Ai/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            },
+            {
+              "title": "Pick & Toss — Footwork 2",
+              "url": "https://drive.google.com/file/d/1s1O6cp1mbOQRVI1ZLHWxBOChk9Pv7ACf/view",
+              "type": "gdrive",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            }
           ]
         },
         {
           "name": "Net Shot — Touch Reassessment",
           "description": "Reassessment of the net shot — the controlled, soft touch that lands tight to the net and forces the opponent to lift the shuttle. The goal is to rebuild the feel for the contact: relaxed grip, soft hands, and just enough racket-head speed to clear the tape without floating the shuttle high enough to be killed. A quality net shot is what unlocks the attacking position the rest of the session is built around.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "The touch comes from the fingers and the wrist, not the arm. Think of the racket face guiding the shuttle over the tape rather than hitting it. If the shuttle floats up off the net, the opponent doesn't have to lift — and the whole purpose of the shot is lost.",
           "videos": [
-            { "title": "Vijit — Net Shot", "url": "https://drive.google.com/file/d/14nHRrf5yOkz8rCKp1oaB_NpQByZUwoKU/view", "type": "gdrive", "students": ["vijit"] },
-            { "title": "Satvik — Net Shot", "url": "https://drive.google.com/file/d/11ectl1KThMsN6bvpTXDIHJYyOApLOd2U/view", "type": "gdrive", "students": ["satvik"] }
+            {
+              "title": "Vijit — Net Shot",
+              "url": "https://drive.google.com/file/d/14nHRrf5yOkz8rCKp1oaB_NpQByZUwoKU/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik — Net Shot",
+              "url": "https://drive.google.com/file/d/11ectl1KThMsN6bvpTXDIHJYyOApLOd2U/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            }
           ]
         },
         {
           "name": "Net Shot & Drop Shot — Multi-Shuttle Front & Rear",
           "description": "Coach Z fed multi-shuttles alternating between the front court (for a net shot) and the rear court (for a drop shot), simulating the front-and-back movement pattern that quality net play creates in a real rally. The drill layers the touch work from Drill 2 onto live movement and tempo, training the body to maintain net shot quality even while traveling between corners.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Net shot quality has to survive the travel. The temptation under tempo is to muscle the net shot to get it over — that floats the shuttle and gives the kill back. Keep the touch soft even when the legs are tired. This is also where the footwork breakdown showed up most clearly — see the Critical Observations.",
           "videos": [
-            { "title": "Vijit — Net Shot & Drop Shot (Multi-Shuttle)", "url": "https://drive.google.com/file/d/1cHc8981lLmFGXzjBY-vehOoCbED7xV30/view", "type": "gdrive", "students": ["vijit"] },
-            { "title": "Satvik — Net Shot & Drop Shot (Multi-Shuttle)", "url": "https://drive.google.com/file/d/1NyDz_aNCDjA3XJqDbbRNXGEqII_XGxS_/view", "type": "gdrive", "students": ["satvik"] }
+            {
+              "title": "Vijit — Net Shot & Drop Shot (Multi-Shuttle)",
+              "url": "https://drive.google.com/file/d/1cHc8981lLmFGXzjBY-vehOoCbED7xV30/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik — Net Shot & Drop Shot (Multi-Shuttle)",
+              "url": "https://drive.google.com/file/d/1NyDz_aNCDjA3XJqDbbRNXGEqII_XGxS_/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            }
           ]
         },
         {
           "name": "Net Shot & Drop Shot — One Shuttle (Coach Punishes Loose Net Shots)",
           "description": "Live front-and-rear court drill with a single shuttle. Student plays a net shot at the front, recovers, then plays a drop shot from the rear. The constraint: if the net shot is loose — floats above the tape or sits up — Coach Z kills the shuttle. The punishment is the point: a quality net shot earns continued rally and attacking position; a poor net shot ends the rally on the opponent's terms.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "This is where the technical purpose of the day comes together — a quality net shot forces the lift; a poor net shot gets killed. Recovery footwork after the net shot is just as important as the shot itself, because the opponent's lift (or kill attempt) is coming back fast and low. Pulling the dominant foot back instead of hopping leaves the body unloaded for the next ball.",
           "videos": [
-            { "title": "Vijit — Net & Drop (One Shuttle)", "url": "https://drive.google.com/file/d/14CjJpS7AM7D96OvZpRVwi-ZRyegbHx2l/view", "type": "gdrive", "students": ["vijit"] },
-            { "title": "Satvik — Net & Drop (One Shuttle)", "url": "https://drive.google.com/file/d/1LKn2hN8MjmBgfMmxu26VyF1uBn4YtiMk/view", "type": "gdrive", "students": ["satvik"] }
+            {
+              "title": "Vijit — Net & Drop (One Shuttle)",
+              "url": "https://drive.google.com/file/d/14CjJpS7AM7D96OvZpRVwi-ZRyegbHx2l/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik — Net & Drop (One Shuttle)",
+              "url": "https://drive.google.com/file/d/1LKn2hN8MjmBgfMmxu26VyF1uBn4YtiMk/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            }
           ]
         }
       ],
       "tips": [
-        { "text": "A quality net shot is the shot that forces the opponent to lift — it hugs the tape and gives them no option but to send the shuttle up. That lift is the entire reason the net shot exists; it is what hands you the attacking position to finish the rally.", "students": ["satvik", "vijit"] },
-        { "text": "The touch in a net shot comes from soft hands and finger control, not from the arm. Relax the grip until the moment of contact and let the racket face guide the shuttle over — the more you try to hit the net shot, the more it floats up to be killed.", "students": ["satvik", "vijit"] },
-        { "text": "In badminton, you can only be fast when you are slow. Clean footwork at a controlled pace builds the pattern; rushing the pattern before it is automatic produces the shortcuts — slides, early jumps, missed split steps — that look fast and play slow.", "students": ["satvik", "vijit"] },
-        { "text": "After a net shot, recover with a hop rather than pulling the dominant foot back. Pulling the foot back loads your weight away from the net just as the opponent's reply is coming back — a hop keeps you balanced and ready to attack the lift or cover a tight return.", "students": ["satvik", "vijit"] },
-        { "text": "The last step into the rear court should be a committed step that arrives under the shuttle, not a big slide that bails you out of incomplete travel. The slide feels efficient but kills the contact point and the recovery.", "students": ["vijit"] },
-        { "text": "Earn the jump — the jump in the rear court is the finish of the footwork, not a substitute for it. Travel to the shuttle first, commit to the hit, then let the jump come naturally. Jumping early disconnects the legs from the contact and leaves you off-balance for the next ball.", "students": ["satvik"] }
+        {
+          "text": "A quality net shot is the shot that forces the opponent to lift — it hugs the tape and gives them no option but to send the shuttle up. That lift is the entire reason the net shot exists; it is what hands you the attacking position to finish the rally.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "The touch in a net shot comes from soft hands and finger control, not from the arm. Relax the grip until the moment of contact and let the racket face guide the shuttle over — the more you try to hit the net shot, the more it floats up to be killed.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "In badminton, you can only be fast when you are slow. Clean footwork at a controlled pace builds the pattern; rushing the pattern before it is automatic produces the shortcuts — slides, early jumps, missed split steps — that look fast and play slow.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "After a net shot, recover with a hop rather than pulling the dominant foot back. Pulling the foot back loads your weight away from the net just as the opponent's reply is coming back — a hop keeps you balanced and ready to attack the lift or cover a tight return.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "The last step into the rear court should be a committed step that arrives under the shuttle, not a big slide that bails you out of incomplete travel. The slide feels efficient but kills the contact point and the recovery.",
+          "students": [
+            "vijit"
+          ]
+        },
+        {
+          "text": "Earn the jump — the jump in the rear court is the finish of the footwork, not a substitute for it. Travel to the shuttle first, commit to the hit, then let the jump come naturally. Jumping early disconnects the legs from the contact and leaves you off-balance for the next ball.",
+          "students": [
+            "satvik"
+          ]
+        }
       ],
       "homework": [
         {
           "name": "Dynamic Warm-Up Drills (Carried Forward from Session 3)",
           "description": "Continue performing the dynamic warm-up routine before every practice or workout. Activates the lower body and prepares the joints for explosive court movement.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "videos": [
-            { "title": "Dynamic Warm-Up Routine", "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s", "type": "youtube", "students": [] }
+            {
+              "title": "Dynamic Warm-Up Routine",
+              "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=141s",
+              "type": "youtube",
+              "students": []
+            }
           ]
         },
         {
           "name": "Jump Skip — Single & Double (Carried Forward from Session 5)",
           "description": "Continue daily jump rope work — 1–2 minutes of single skips to establish bounce and rhythm, then progress to double skips. The bounce should come from the ankles and calves, not from lifting the knees to clear the rope.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "videos": [
-            { "title": "Jump Skip Reference — YouTube Short", "url": "https://www.youtube.com/shorts/s8YjkbvShAQ", "type": "youtube", "students": [] }
+            {
+              "title": "Jump Skip Reference — YouTube Short",
+              "url": "https://www.youtube.com/shorts/s8YjkbvShAQ",
+              "type": "youtube",
+              "students": []
+            }
           ]
         },
         {
           "name": "Lower-Body Strength — Squats & Lunges (Carried Forward from Session 6)",
           "description": "Continue daily bodyweight squats and lunges to address the lower-body strength gap that limits explosive movement. Clean reps with full range of motion: knees tracking over toes on squats, front knee aligned over the ankle on lunges, torso upright, deliberate drive up through the heel.",
-          "students": ["satvik", "vijit"]
+          "students": [
+            "satvik",
+            "vijit"
+          ]
         },
         {
           "name": "Shadow Footwork — Slow & Committed",
           "description": "At home, in any open space: shadow the rear court footwork pattern at a deliberately slow pace. Take every step you need to arrive under the imaginary shuttle — no slides on the last step, no early jumps. The goal is repetition at a pace where the body has time to choose the correct pattern, so the pattern becomes the automatic response under match tempo.",
-          "students": ["satvik", "vijit"],
+          "students": [
+            "satvik",
+            "vijit"
+          ],
           "notes": "Slow is the point. If you can't do it cleanly slow, you cannot do it cleanly fast — speed only locks in whatever pattern you have repeated most."
         }
       ],
       "homeworkNote": "The technical headline of this session was the net shot, but the bigger headline is in the Critical Observations at the top. The next several sessions will focus on rebuilding clean rear court footwork — committed steps for Vijit, footwork before the jump for Satvik, and consistent split steps, low center of gravity, and proper recovery hops for both. The off-court strength and jump skip work is what makes that on-court work possible, so keep it daily.",
-      "tags": ["net shot", "drop shot", "front court", "rear court", "footwork", "multi-shuttle", "touch", "attacking position", "split step", "homework"]
+      "tags": [
+        "net shot",
+        "drop shot",
+        "front court",
+        "rear court",
+        "footwork",
+        "multi-shuttle",
+        "touch",
+        "attacking position",
+        "split step",
+        "homework"
+      ]
+    },
+    {
+      "id": "2026-06-06",
+      "date": "2026-06-06",
+      "title": "Session 8 — Footwork Reset: Fixing the Last Step",
+      "takeaway": "Continuation of the footwork throughline from Session 7. The whole session was built around two specific bad habits we named in advance — Vijit's big sliding last step on the rear court, and Satvik's jump on the last step on the rear court — and gave the body cleaner movement patterns to replace them. Three progressively more sport-specific drills (reactive pickup-throw → front-back shadow → rear-to-frontcourt diagonal) and live singles to test it under pressure. Direction for the coming sessions: keep drilling diagonal and corner-to-corner footwork until the patterns are second nature, then layer the shuttle back in.",
+      "summary": "Footwork-focused session targeting each student's specific last-step problem from Session 7. Warmed up with a reactive pushup-to-lunge-to-pickup-and-throw drill to wake up the legs and reaction time, moved into front-back shadow pickup for clean court-coverage patterns, then into the rear-to-frontcourt diagonal drill with a coach demo as the reference movement. Finished with live singles against the coach to stress-test the footwork under match conditions. Constraints were set up front: Vijit cannot finish his rear court footwork with a big slide; Satvik cannot finish his rear court footwork with a jump.",
+      "observations": [
+        {
+          "text": "Push-off to the rear court is becoming natural — the rear travel looks more committed and less hesitant. The next gap is the return to the front: not using proper running steps, instead drifting back. Combined with this, the upper body keeps collapsing forward and the racket/swing prep drops on the way in. Cue: stay tall, racket up, run the recovery.",
+          "students": [
+            "vijit"
+          ]
+        },
+        {
+          "text": "Front-back shadow movement visibly cleaned up toward the end of 'Vijit_front_back_shadow.MOV' after coaching cues — proof the pattern is there when attention is on it. The work now is making it the default, not the corrected version.",
+          "students": [
+            "vijit"
+          ]
+        },
+        {
+          "text": "Has the raw power, but is spending it on every single step instead of distributing it across the pattern — every step looks like a full-effort step. The result is the excessive jumping we're trying to remove: the body keeps reaching for max force and ends up airborne.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "First step out of the split is under-powered — not pushing off hard enough — and then the subsequent steps try to re-accelerate to catch up. This makes the whole travel choppy and stop-start instead of one continuous movement. Cue: hardest push goes into step one, the rest is rhythm.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "Direction for the next several sessions: emphasize footwork with more diagonal and corner-to-corner drills (like today's rear-to-frontcourt diagonal) until the patterns are second nature. Only then do we re-layer the shuttle back in at full tempo.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "name": "Drill 1 — Reactive Pushup to Lunge Pickup & Throw",
+          "description": "Start in a pushup position, explode up into a lunge, pick up a shuttle off the floor, and throw it. Wakes up the legs, primes reaction time, and trains the body to transition from a low position into an explosive committed step — the same mechanic as a deep court lunge.",
+          "students": [
+            "satvik",
+            "vijit"
+          ],
+          "notes": "Treat the lunge step as a commitment, not a stretch. The pickup-and-throw forces the body to keep moving through contact rather than freezing on the lunge.",
+          "videos": [
+            {
+              "title": "Pushup → Lunge → Pickup & Throw",
+              "url": "https://drive.google.com/file/d/1MR-JKeR5euIJCvZHSczL6DcXRNn1bc8E/view",
+              "type": "gdrive",
+              "students": []
+            }
+          ]
+        },
+        {
+          "name": "Drill 2 — Front & Back Shadow with Shuttle Pickup",
+          "description": "Shadow footwork pattern between the front court and the rear court, picking up a shuttle at each end. Pure movement pattern — no racket swing under match tempo — so the legs can rehearse a clean travel and a clean last step.",
+          "students": [
+            "satvik",
+            "vijit"
+          ],
+          "notes": "Vijit — no big slide on the last step at the rear; finish with proper steps under the shuttle. Satvik — no jump on the last step at the rear; commit to the travel first, the jump (if any) is the finish, not the locomotion. Both — stay tall through the pattern, racket and swing prep stay high on the way in to the front.",
+          "videos": [
+            {
+              "title": "Vijit",
+              "url": "https://drive.google.com/file/d/1GJy2vQG9zvWJ9-LS2egKXgRGw1-CsmOm/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            },
+            {
+              "title": "Satvik",
+              "url": "https://drive.google.com/file/d/15QcVz7zw2IjZ3Vgulg3BQhcaznBWVBQm/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drill 3 — Rear to Frontcourt Diagonal",
+          "description": "Diagonal court-coverage drill — travel from a rear corner to the diagonally opposite front corner and back. Adds the diagonal vector that pure front-back shadow doesn't train. Coach demo included as the reference movement to mirror.",
+          "students": [
+            "satvik",
+            "vijit"
+          ],
+          "notes": "Reference the coach demo for: first-step push-off intensity, intermediate step rhythm, and a clean (not slid, not jumped) last step under the shuttle. This pattern will return in the coming sessions until it's automatic.",
+          "videos": [
+            {
+              "title": "Coach Z (demo) + Satvik",
+              "url": "https://drive.google.com/file/d/1D4qMMrWmnT00on4e292DpVkPIiFhArIZ/view",
+              "type": "gdrive",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Vijit",
+              "url": "https://drive.google.com/file/d/1QntJ9VHNB-UNbl7Q3fDW8PoKZwFire3t/view",
+              "type": "gdrive",
+              "students": [
+                "vijit"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Live Singles vs Coach",
+          "description": "Full singles play against the coach after the footwork block — the pressure test. Goal: hold the footwork patterns we just drilled under real match decisions, shot variety, and tempo.",
+          "students": [
+            "satvik",
+            "vijit"
+          ],
+          "notes": "Watch for the same two failure modes under pressure: Vijit's big slide on the last step at the rear; Satvik's early jump. When they show up, it tells us exactly where the pattern still isn't automatic.",
+          "videos": []
+        }
+      ],
+      "tips": [
+        {
+          "text": "Vijit — no big slide as the last step at the rear court. Take the step.",
+          "students": [
+            "vijit"
+          ]
+        },
+        {
+          "text": "Vijit — coming back to the front, use proper running steps, not a drift. Stay tall, racket and swing prep high.",
+          "students": [
+            "vijit"
+          ]
+        },
+        {
+          "text": "Satvik — no jump as the last step at the rear court. The jump is a finish, not a travel.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "Satvik — biggest push goes into the FIRST step out of the split. Subsequent steps are rhythm, not re-acceleration.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "Both — footwork patterns are built without the shuttle and tested with it. If the pattern breaks the moment a shuttle appears, it isn't automatic yet.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        }
+      ],
+      "videos": [],
+      "tags": [
+        "footwork",
+        "shadow drill",
+        "diagonal movement",
+        "rear court",
+        "front court",
+        "reactive drill",
+        "singles play",
+        "last step"
+      ]
     }
   ]
 }

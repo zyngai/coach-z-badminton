@@ -1,0 +1,51 @@
+.slogan {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-md);
+  max-width: 900px;
+  margin: var(--space-xl) auto var(--space-lg);
+  padding: 0 var(--space-xl);
+  text-align: center;
+}
+
+.slogan__rule {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-primary), transparent);
+  opacity: 0.6;
+}
+
+.slogan__text {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: var(--font-size-lg);
+  line-height: 1.4;
+  color: var(--color-text-secondary);
+  letter-spacing: 0.02em;
+  white-space: normal;
+  margin: 0;
+}
+
+.slogan__quote {
+  color: var(--color-primary);
+  font-size: 1.4em;
+  vertical-align: -0.15em;
+  margin: 0 0.15em;
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .slogan {
+    flex-direction: column;
+    gap: var(--space-sm);
+    margin: var(--space-lg) auto;
+  }
+  .slogan__rule {
+    width: 60%;
+    flex: none;
+  }
+  .slogan__text {
+    font-size: var(--font-size-md);
+  }
+}

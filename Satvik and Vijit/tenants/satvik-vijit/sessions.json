@@ -1,4 +1,8 @@
 {
+  "dashboard": {
+    "title": "Coach Z Badminton Training",
+    "subtitle": "Satvik & Vijit — Session Notes & Drills"
+  },
   "students": [
     {
       "id": "satvik",

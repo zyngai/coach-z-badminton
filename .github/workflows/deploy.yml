@@ -32,9 +32,9 @@ jobs:
         working-directory: 'Satvik and Vijit'
         run: npm ci
 
-      - name: Build
+      - name: Build all tenant dashboards
         working-directory: 'Satvik and Vijit'
-        run: npm run build
+        run: npm run build:tenants
 
       - uses: actions/configure-pages@v4
 

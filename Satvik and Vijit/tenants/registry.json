@@ -1,0 +1,20 @@
+{
+  "tenants": [
+    {
+      "id": "satvik-vijit",
+      "name": "Satvik & Vijit",
+      "slug": "satvik-vijit-af8ffccda9",
+      "root": false,
+      "basePath": "/coach-z-badminton/satvik-vijit-af8ffccda9/",
+      "data": "satvik-vijit/sessions.json"
+    },
+    {
+      "id": "anamithraa",
+      "name": "Anamithraa",
+      "slug": "anamithraa-02b0fcbf06",
+      "root": false,
+      "basePath": "/coach-z-badminton/anamithraa-02b0fcbf06/",
+      "data": "anamithraa/sessions.json"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "dashboard": {
+    "title": "Coach Z Badminton Training",
+    "subtitle": "Anamithraa — Session Notes & Drills"
+  },
+  "students": [
+    {
+      "id": "anamithraa",
+      "name": "Anamithraa",
+      "avatarColor": "#0D9488"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "2026-06-23",
+      "date": "2026-06-23",
+      "title": "Session 1 — Foundational Assessment: Footwork, Grip, Swing & Rally",
+      "takeaway": "This first session was a full assessment to understand Anamithraa's current level and set a clear direction for training. The encouraging part is that the building blocks are already there — solid swing preparation, a working shuffle step, and naturally good drop shots. The main focus going forward is generating power from the body and a proper swing rather than the arm, sharpening footwork timing, and tightening up movement at the net. The two homework drills target the most important foundations first: footwork and forearm pronation.",
+      "summary": "Session 1 was a comprehensive assessment across footwork, grip, swing mechanics, and live rallying. Coach Z began with shadow movement footwork to the front, middle, and rear court, then checked Anamithraa's racket grip and overhead swing. The session finished with a few live rallies to see how everything holds together under real play. The findings give a simple roadmap: build a stronger overhead clear by driving power from the body and a pronated swing, improve footwork timing, and develop more compact movement at the net — which together will also make her already-good drop shots far more effective.",
+      "observations": [
+        {
+          "text": "Decent swing preparation and shuffle step right from the start — a solid foundation to build on.",
+          "students": ["anamithraa"]
+        },
+        {
+          "text": "When her footwork looks slow, it is usually a timing issue — the timing of the split step, push-off, and lowering her center of gravity — rather than a lack of raw foot speed.",
+          "students": ["anamithraa"]
+        },
+        {
+          "text": "Her overhead clear currently reaches at most the middle of the court. This is mostly because she relies on her arm to hit the shuttle instead of generating power from a full, pronated swing and the body.",
+          "students": ["anamithraa"]
+        },
+        {
+          "text": "She has good drop shots but tends to overuse them. As her clear improves, the drop will become far more effective because opponents will have to respect the threat of the clear.",
+          "students": ["anamithraa"]
+        },
+        {
+          "text": "She makes a big, unnecessary movement at the front court when trying to play a net shot or lift. Tightening this into a more compact, controlled movement will improve both speed and consistency at the net.",
+          "students": ["anamithraa"]
+        }
+      ],
+      "drills": [
+        {
+          "name": "Shadow Movement Footwork — Front, Middle & Rear Court",
+          "description": "Shadow footwork without a shuttle, covering movement to the front court, mid court, and rear court. This builds the movement patterns and court coverage that everything else is layered on top of.",
+          "students": ["anamithraa"],
+          "notes": "Focus on the timing of the split step and push-off, and on staying low through the movement rather than just trying to move fast.",
+          "videos": [
+            {
+              "title": "Front Court Shadow Movement",
+              "url": "https://youtu.be/IVI6R5dBk_o",
+              "type": "youtube",
+              "students": ["anamithraa"]
+            },
+            {
+              "title": "Rear Court Shadow Movement",
+              "url": "https://youtu.be/7bqd_0IVuqs",
+              "type": "youtube",
+              "students": ["anamithraa"]
+            }
+          ]
+        },
+        {
+          "name": "Grip & Swing Check",
+          "description": "Coach Z checked Anamithraa's racket grip and overhead swing mechanics to establish a technical baseline. The key finding is a tendency to generate power from the arm rather than from a full, pronated swing using the forearm and body.",
+          "students": ["anamithraa"],
+          "notes": "The goal over the next few sessions is to shift from an arm-driven hit to a relaxed, pronated swing where power comes from forearm rotation and the body — this is what will extend the clear to the back of the court."
+        },
+        {
+          "name": "Live Rally with Coach Z",
+          "description": "A few live rallies with Coach Z to see how footwork, swing, and shot selection hold up in real play. This is where the assessment came together and the training priorities became clear.",
+          "students": ["anamithraa"],
+          "notes": "Good early sign: the swing preparation and shuffle step already show up naturally in rallies. The next layers are clear depth, footwork timing, and tighter net movement.",
+          "videos": [
+            {
+              "title": "Rally with Coach Z",
+              "url": "https://youtu.be/LlaLqI4rj6Q",
+              "type": "youtube",
+              "students": ["anamithraa"]
+            }
+          ]
+        }
+      ],
+      "tips": [
+        {
+          "text": "Power comes from the body and the swing, not the arm. A relaxed, pronated overhead swing will send the clear to the back of the court far more easily than muscling it with the arm.",
+          "students": ["anamithraa"]
+        },
+        {
+          "text": "Footwork speed is mostly timing. Sharpen the split step and push-off, stay low, and the movement will feel faster without trying to rush.",
+          "students": ["anamithraa"]
+        },
+        {
+          "text": "Keep movement at the net small and controlled. A compact step into the shuttle is quicker and more consistent than a big reach.",
+          "students": ["anamithraa"]
+        }
+      ],
+      "homework": [
+        {
+          "name": "Dynamic Footwork Drill",
+          "description": "An at-home dynamic footwork drill to develop faster, better-timed movement around the court.",
+          "students": ["anamithraa"],
+          "notes": "The more you do this drill — and it can be done at home — the more it translates into faster, sharper footwork on court.",
+          "videos": [
+            {
+              "title": "Dynamic Footwork Drill",
+              "url": "https://www.youtube.com/watch?v=OAhcYkmbqOo&t=6s",
+              "type": "youtube",
+              "students": ["anamithraa"]
+            }
+          ]
+        },
+        {
+          "name": "Forearm Pronation in Overhead Swings",
+          "description": "A drill to develop forearm pronation on overhead swings, so power comes from the rotation of the forearm and body rather than the arm alone.",
+          "students": ["anamithraa"],
+          "notes": "We briefly covered pronation in the first class, but it is still natural to fall back on swinging with the arm. Practicing this at home will start to build the correct overhead motion.",
+          "videos": [
+            {
+              "title": "Forearm Pronation (Overhead Swing)",
+              "url": "https://www.youtube.com/shorts/4Ho6pObTSUE",
+              "type": "youtube",
+              "students": ["anamithraa"]
+            }
+          ]
+        }
+      ],
+      "homeworkNote": "Both drills can be done at home. These are fundamental building blocks — getting footwork timing and a proper pronated swing in place now is what makes faster footwork and more advanced skills possible later.",
+      "tags": ["assessment", "footwork", "grip & swing", "fundamentals"]
+    }
+  ]
+}

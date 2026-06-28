@@ -9,11 +9,12 @@ import './App.css'
 export default function App() {
   const { data, loading, error } = useSessionData()
   const [activeStudent, setActiveStudent] = useState(null)
+  const dash = data.dashboard || {}
 
   if (loading) {
     return (
       <>
-        <Header />
+        <Header title={dash.title} subtitle={dash.subtitle} />
         <p style={{ textAlign: 'center', padding: '2rem', color: '#9CA3AF' }}>
           Loading sessions...
         </p>
@@ -24,7 +25,7 @@ export default function App() {
   if (error) {
     return (
       <>
-        <Header />
+        <Header title={dash.title} subtitle={dash.subtitle} />
         <p style={{ textAlign: 'center', padding: '2rem', color: '#EF4444' }}>
           Error: {error}
         </p>
@@ -34,7 +35,7 @@ export default function App() {
 
   return (
     <>
-      <Header />
+      <Header title={dash.title} subtitle={dash.subtitle} />
       <StudentFilter
         students={data.students}
         activeStudent={activeStudent}

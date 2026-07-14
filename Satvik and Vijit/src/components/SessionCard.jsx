@@ -15,6 +15,21 @@ export default function SessionCard({ session, students, activeStudent }) {
   const homework = filterItems(session.homework || [], activeStudent)
   const observations = filterItems(session.observations || [], activeStudent)
 
+  const homeworkSection = homework.length > 0 && (
+    <div className="session-card__section session-card__homework">
+      <h3 className="session-card__section-title">
+        <span className="session-card__homework-icon">&#9998;</span>
+        Homework
+      </h3>
+      {homework.map((hw, i) => (
+        <DrillItem key={i} drill={hw} students={students} number={i + 1} activeStudent={activeStudent} label="HW" />
+      ))}
+      {session.homeworkNote && (
+        <p className="session-card__homework-note">{session.homeworkNote}</p>
+      )}
+    </div>
+  )
+
   return (
     <article className="session-card">
       <div className="session-card__header" onClick={() => setOpen(!open)}>
@@ -44,6 +59,8 @@ export default function SessionCard({ session, students, activeStudent }) {
                 <p className="session-card__takeaway-text">{session.takeaway}</p>
               </div>
             )}
+
+            {session.homeworkFirst && homeworkSection}
 
             {session.summary && (
               <p className="session-card__summary">{session.summary}</p>
@@ -108,20 +125,7 @@ export default function SessionCard({ session, students, activeStudent }) {
               </div>
             )}
 
-            {homework.length > 0 && (
-              <div className="session-card__section session-card__homework">
-                <h3 className="session-card__section-title">
-                  <span className="session-card__homework-icon">&#9998;</span>
-                  Homework
-                </h3>
-                {homework.map((hw, i) => (
-                  <DrillItem key={i} drill={hw} students={students} number={i + 1} activeStudent={activeStudent} label="HW" />
-                ))}
-                {session.homeworkNote && (
-                  <p className="session-card__homework-note">{session.homeworkNote}</p>
-                )}
-              </div>
-            )}
+            {!session.homeworkFirst && homeworkSection}
 
             {session.closingImage && (
               <div className="session-card__closing-image">

@@ -57,6 +57,7 @@ export default function VideoEmbed({ video }) {
   return (
     <div className="video-embed">
       {video.title && <p className="video-embed__title">{video.title}</p>}
+      {video.comment && <p className="video-embed__comment">{video.comment}</p>}
       <div className="video-embed__wrapper">
         {active ? (
           <iframe

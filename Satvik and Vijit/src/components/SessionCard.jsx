@@ -7,6 +7,7 @@ import TipItem from './TipItem'
 import VideoEmbed from './VideoEmbed'
 
 export default function SessionCard({ session, students, activeStudent }) {
+  const isMatchAnalysis = session.entryType === 'match-analysis'
   const [open, setOpen] = useState(false)
 
   const drills = filterItems(session.drills || [], activeStudent)
@@ -31,10 +32,11 @@ export default function SessionCard({ session, students, activeStudent }) {
   )
 
   return (
-    <article className="session-card">
+    <article className={`session-card ${isMatchAnalysis ? 'session-card--match-analysis' : ''}`}>
       <div className="session-card__header" onClick={() => setOpen(!open)}>
         <div className="session-card__header-left">
-          <div className="session-card__date">{formatDate(session.date)}</div>
+          {isMatchAnalysis && <div className="session-card__eyebrow">Tournament Match Analysis</div>}
+          <div className="session-card__date">{session.dateLabel || formatDate(session.date)}</div>
           <h2 className="session-card__title">{session.title}</h2>
         </div>
         <svg
@@ -53,6 +55,13 @@ export default function SessionCard({ session, students, activeStudent }) {
       <div className={`session-card__body ${open ? 'session-card__body--open' : ''}`}>
         <div className="session-card__body-inner">
           <div className="session-card__content">
+            {isMatchAnalysis && (
+              <div className="session-card__match-comment">
+                <h3 className="session-card__section-title">Coach&apos;s Comment</h3>
+                <p>{session.coachComment || 'TBD'}</p>
+              </div>
+            )}
+
             {session.takeaway && (
               <div className="session-card__takeaway">
                 <h3 className="session-card__section-title">Main Takeaway</h3>
@@ -118,10 +127,19 @@ export default function SessionCard({ session, students, activeStudent }) {
 
             {videos.length > 0 && (
               <div className="session-card__section">
-                <h3 className="session-card__section-title">Videos</h3>
-                {videos.map((video, i) => (
-                  <VideoEmbed key={i} video={video} />
-                ))}
+                <h3 className="session-card__section-title">{isMatchAnalysis ? 'Match Videos' : 'Videos'}</h3>
+                <div className={isMatchAnalysis ? 'session-card__match-videos' : undefined}>
+                  {videos.map((video, i) => (
+                    <VideoEmbed key={i} video={video} />
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {isMatchAnalysis && (
+              <div className="session-card__match-plan">
+                <h3 className="session-card__section-title">Training Plan</h3>
+                <p>{session.trainingPlan || 'TBD'}</p>
               </div>
             )}
 

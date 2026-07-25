@@ -1,5 +1,6 @@
 import VideoEmbed from './VideoEmbed'
 import { filterItems } from '../utils/filters'
+import { getDrillVideosClass } from '../utils/videoLayout'
 
 export default function DrillItem({ drill, students, number, activeStudent, label = 'Drill' }) {
   const videos = filterItems(drill.videos || [], activeStudent)
@@ -30,7 +31,7 @@ export default function DrillItem({ drill, students, number, activeStudent, labe
         <p className="drill-item__notes">{drill.notes}</p>
       )}
       {videos.length > 0 && (
-        <div className="drill-item__videos">
+        <div className={getDrillVideosClass(drill.videoLayout)}>
           {videos.map((video, i) => (
             <VideoEmbed key={i} video={video} />
           ))}

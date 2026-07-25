@@ -272,6 +272,10 @@
   .drill-item__videos--side-by-side {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .drill-item__videos--side-by-side .video-embed:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+  }
 }
 
 /* Tip item */

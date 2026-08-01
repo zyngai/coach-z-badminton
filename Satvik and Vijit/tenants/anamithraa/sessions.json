@@ -561,6 +561,183 @@
         "match play",
         "drop shot"
       ]
+    },
+    {
+      "id": "2026-07-31",
+      "date": "2026-07-31",
+      "title": "Session 4 — Timing, Acceleration & Controlled Movement",
+      "takeaway": "Anamithraa built on the front-to-back movement from Session 3 by adding timing, acceleration, deceleration, and shot visualization. She also continued developing her clear by learning to generate power in sequence from the feet, through the hips, and into the swing. Good badminton movement is not about moving at maximum speed all the time; it requires knowing when to accelerate, when to slow down, and how to arrive balanced for the next shot.",
+      "summary": "Session 4 continued the clear rally, added acceleration and deceleration to Anamithraa's front-to-back footwork, and then applied that movement in a drop-shot-to-net-push sequence. The central lesson was that controlled timing creates effective speed: ‘You can only be fast when you are slow.’",
+      "observations": [
+        {
+          "text": "Anamithraa showed better consistency and faster footwork in Drill 2, Video 2.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Her movement rhythm improved when she focused on accelerating and decelerating instead of moving at one speed.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "The next step for her clear is connecting the power sequence from the feet, through the hips, and into the swing.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "During shadow footwork, she should picture the shuttle and move with a purpose rather than simply following a movement pattern.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Each movement should finish balanced and ready for the next shot.",
+          "students": [
+            "anamithraa"
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "name": "Clear Rally — Feet, Hips, Then Swing",
+          "description": "Anamithraa continued the clear rally from previous sessions. The long-term goal is to hit consistently from rear court to rear court.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Push from the feet, rotate through the hips, and transfer the power into the swing. Keep the arm relaxed and allow the full body to support the shot.",
+          "videos": [
+            {
+              "title": "Clear Rally — Lower-Body Power",
+              "url": "https://youtu.be/gC0uW9xhNQ0",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Front-to-Back Footwork with Shuttle Pickup",
+          "description": "Pick up the shuttle near the service line, move toward the rear court, and throw it. Focus on timing, acceleration, deceleration, balance, and recovery.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Video 2 shows better consistency, faster and more purposeful footwork, and stronger control when changing direction. Continue working on arriving balanced instead of rushing through the final step. The objective is repeatable movement, not speed without control.",
+          "videoLayout": "side-by-side",
+          "videos": [
+            {
+              "title": "Video 1 — First Round",
+              "url": "https://youtu.be/4u3yy3MAOuM",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            },
+            {
+              "title": "Video 2 — Improved Consistency and Speed",
+              "url": "https://youtu.be/7u8W-ttw2Go",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drop Shot to Net Push",
+          "description": "Use the front-to-back footwork pattern to move to the rear court and play a drop shot, then accelerate forward and play a controlled net push around the service line instead of a net spin.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Decelerate before contact so the body remains balanced. Time the movement to meet the shuttle in a strong position, then recover for the next shot.",
+          "videos": [
+            {
+              "title": "Drop Shot to Net Push",
+              "url": "https://youtu.be/oSs7giuekZQ",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        }
+      ],
+      "tips": [
+        {
+          "text": "Build clear power from the ground up: feet → hips → swing.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Acceleration helps cover distance; deceleration helps control the shot.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Move quickly between positions, but arrive under control.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "During shadow footwork, picture a real shuttle and prepare for a specific shot.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Recover after every movement so the next action can begin on time.",
+          "students": [
+            "anamithraa"
+          ]
+        }
+      ],
+      "homework": [
+        {
+          "name": "Front-to-Back Footwork with Visualization",
+          "description": "Repeat the front-to-back shuttle-pickup footwork from Drill 2 and picture an imaginary shuttle during every movement.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Accelerate while covering the court, decelerate before arriving, and finish balanced and ready to move again.",
+          "videos": [
+            {
+              "title": "Homework Reference — Drill 2, Video 2",
+              "url": "https://youtu.be/7u8W-ttw2Go",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Study Saina Nehwal's Match Movement",
+          "description": "Watch Saina Nehwal's game play and study how she changes speed and times her movement to the shuttle.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Identify when she accelerates, when she decelerates before reaching the shuttle, how she times her first movement, how she arrives balanced, and how quickly she recovers. Bring one movement pattern to discuss with Coach Z during the next session."
+        }
+      ],
+      "homeworkNote": "Main focus: use Drill 2, Video 2 as the movement reference. Picture the shuttle, control the changes of speed, and arrive balanced. Remember: you can only be fast when you are slow.",
+      "tags": [
+        "clear",
+        "lower-body power",
+        "timing",
+        "acceleration",
+        "deceleration",
+        "front-to-back footwork",
+        "shot visualization",
+        "drop shot",
+        "net push",
+        "homework"
+      ]
     }
   ]
 }

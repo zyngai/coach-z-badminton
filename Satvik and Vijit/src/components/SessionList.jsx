@@ -2,7 +2,7 @@ import SessionCard from './SessionCard'
 import EmptyState from './EmptyState'
 import { hasVisibleContent } from '../utils/filters'
 
-export default function SessionList({ sessions, students, activeStudent }) {
+export default function SessionList({ sessions, students, activeStudent, suppressHomework = false }) {
   const visible = sessions.filter((s) => hasVisibleContent(s, activeStudent))
 
   if (visible.length === 0) {
@@ -17,6 +17,7 @@ export default function SessionList({ sessions, students, activeStudent }) {
           session={session}
           students={students}
           activeStudent={activeStudent}
+          suppressHomework={suppressHomework}
         />
       ))}
     </div>

@@ -1,0 +1,74 @@
+/* Reuse the session-card layout; only the Homework accent differs. */
+.session-list.homework-library {
+  --color-accent: #86efac;
+  --color-accent-dark: #16a34a;
+  padding-bottom: 0;
+}
+
+.homework-library + .session-list {
+  padding-top: 0;
+}
+
+.homework-library__toggle {
+  width: 100%;
+  border: 0;
+  background: transparent;
+  font: inherit;
+  text-align: left;
+}
+
+.homework-library__toggle:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: -3px;
+}
+
+.homework-library__group + .homework-library__group {
+  border-top: 1px solid var(--color-border);
+}
+
+.homework-library__summary {
+  padding: var(--space-md) 0;
+  cursor: pointer;
+}
+
+.homework-library__session {
+  display: block;
+  margin-top: 2px;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.homework-library__body {
+  padding-bottom: var(--space-md);
+}
+
+.homework-library__item + .homework-library__item {
+  margin-top: var(--space-md);
+}
+
+.homework-library__source-references {
+  margin-bottom: var(--space-md);
+  padding: var(--space-md);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-bg);
+}
+
+.homework-library__source-note {
+  margin-bottom: var(--space-sm);
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  line-height: 1.6;
+}
+
+.homework-library__videos {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-md);
+}
+
+@media (min-width: 700px) {
+  .homework-library__videos {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

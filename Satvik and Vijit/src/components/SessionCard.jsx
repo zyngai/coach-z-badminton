@@ -6,14 +6,14 @@ import DrillItem from './DrillItem'
 import TipItem from './TipItem'
 import VideoEmbed from './VideoEmbed'
 
-export default function SessionCard({ session, students, activeStudent }) {
+export default function SessionCard({ session, students, activeStudent, suppressHomework = false }) {
   const isMatchAnalysis = session.entryType === 'match-analysis'
   const [open, setOpen] = useState(false)
 
   const drills = filterItems(session.drills || [], activeStudent)
   const tips = filterItems(session.tips || [], activeStudent)
   const videos = filterItems(session.videos || [], activeStudent)
-  const homework = filterItems(session.homework || [], activeStudent)
+  const homework = suppressHomework ? [] : filterItems(session.homework || [], activeStudent)
   const observations = filterItems(session.observations || [], activeStudent)
 
   const homeworkSection = homework.length > 0 && (

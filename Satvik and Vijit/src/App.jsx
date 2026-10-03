@@ -2,8 +2,10 @@ import { useState } from 'react'
 import { useSessionData } from './hooks/useSessionData'
 import Header from './components/Header'
 import StudentFilter from './components/StudentFilter'
+import HomeworkLibrary from './components/HomeworkLibrary'
 import SessionList from './components/SessionList'
 import Slogan from './components/Slogan'
+import { shouldSuppressSessionHomework } from './utils/homeworkLibrary'
 import './App.css'
 
 export default function App() {
@@ -42,10 +44,17 @@ export default function App() {
         onFilter={setActiveStudent}
       />
       <Slogan />
+      <HomeworkLibrary
+        dashboard={dash}
+        sessions={data.sessions}
+        students={data.students}
+        activeStudent={activeStudent}
+      />
       <SessionList
         sessions={data.sessions}
         students={data.students}
         activeStudent={activeStudent}
+        suppressHomework={shouldSuppressSessionHomework(dash)}
       />
     </>
   )

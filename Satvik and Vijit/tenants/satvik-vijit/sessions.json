@@ -1,7 +1,54 @@
 {
   "dashboard": {
     "title": "Coach Z Badminton Training",
-    "subtitle": "Satvik & Vijit — Session Notes & Drills"
+    "subtitle": "Satvik & Vijit — Session Notes & Drills",
+    "homeworkLibrary": {
+      "enabled": true,
+      "suppressSessionHomework": true,
+      "sourceReferences": {
+        "2026-08-07": [
+          {
+            "homeworkName": "Rear-Court Footwork Reset — Both Corners",
+            "note": "Session 12 homework points to Drill 1’s three forehand rear-court clips and Drill 2’s supplemental overhead-corner breakdown. Those source-session references are repeated here so the assignment still works from the dedicated Homework section.",
+            "videos": [
+              {
+                "title": "Session 12 Drill 1 — Forehand Rear-Court Footwork (Video 1)",
+                "url": "https://youtu.be/cTJ4GPStX2g",
+                "type": "youtube",
+                "students": [
+                  "satvik",
+                  "vijit"
+                ]
+              },
+              {
+                "title": "Session 12 Drill 1 — Forehand Rear-Court Footwork (Video 2)",
+                "url": "https://youtu.be/bMkz_BQD_Ww",
+                "type": "youtube",
+                "students": [
+                  "satvik",
+                  "vijit"
+                ]
+              },
+              {
+                "title": "Session 12 Drill 1 — Forehand Rear-Court Footwork (Video 3)",
+                "url": "https://youtu.be/RV6M9BQbSjg",
+                "type": "youtube",
+                "students": [
+                  "satvik",
+                  "vijit"
+                ]
+              },
+              {
+                "title": "Session 12 Drill 2 — Overhead Rear-Court Footwork Breakdown",
+                "url": "https://www.youtube.com/watch?v=L7PNaJo0iBQ",
+                "type": "youtube",
+                "students": []
+              }
+            ]
+          }
+        ]
+      }
+    }
   },
   "students": [
     {
@@ -2429,6 +2476,204 @@
         "backhand net spin",
         "drop shot",
         "diagonal movement"
+      ]
+    },
+    {
+      "id": "2026-10-02",
+      "date": "2026-10-02",
+      "title": "Session 14 — Smoother Rear-Court Footwork, Cross-Court Drops & Attack Follow-Up",
+      "takeaway": "Your rear-court footwork is noticeably better than when you first started, even after nearly a month away from training. The next goal is smoother movement: a cleaner weight shift for Satvik and a steadier upper body for Vijit. We also connected the cross-court drop, backhand net spin, and smash opportunity.",
+      "summary": "We started with a rear-court footwork check-in, practiced cross-court drops, then finished with two rounds of multi-shuttle drop → backhand net spin → smash. The final drill built a plan for the next shot, not just the shot being played.",
+      "observations": [
+        {
+          "text": "Both players’ rear-court footwork is noticeably better than when they started. Keep building smoother, more efficient movement.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Satvik sometimes adds an extra jump instead of shifting his body weight efficiently. Focus on a smooth weight shift rather than the extra hop.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "Vijit tends to dip his upper body while moving. Keep the upper body steady while the legs carry you through the footwork.",
+          "students": [
+            "vijit"
+          ]
+        },
+        {
+          "text": "After the forehand cross-court drop, be ready to follow toward the backhand net. A good net spin can draw a lift and create a smash opportunity.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "name": "Drill 1 — Rear-Court Footwork Check-In",
+          "description": "Individual rear-court movement check-in after the training break. The goal was to see whether the footwork foundation was holding and identify the next efficiency cue for each player.",
+          "students": [
+            "satvik",
+            "vijit"
+          ],
+          "notes": "Move smoothly before adding speed. Satvik: avoid the extra jump and shift body weight efficiently. Vijit: keep the upper body from dipping while you travel.",
+          "videos": [
+            {
+              "title": "Satvik — Rear-Court Footwork Check-In",
+              "url": "https://youtu.be/vMnc-8s1pSM",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Vijit — Rear-Court Footwork Check-In",
+              "url": "https://youtu.be/wjSHQt1jM4s",
+              "type": "youtube",
+              "students": [
+                "vijit"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drill 2 — Cross-Court Forehand Drops",
+          "description": "Individual cross-court drop-shot practice, with a clip for each player.",
+          "students": [
+            "satvik",
+            "vijit"
+          ],
+          "notes": "Think about the next shot as well as the drop: be ready to follow toward the backhand net.",
+          "videos": [
+            {
+              "title": "Satvik — Cross-Court Forehand Drop",
+              "url": "https://youtu.be/WeRjpUjCZxs",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Vijit — Cross-Court Forehand Drop",
+              "url": "https://youtu.be/GB89j7sB_5o",
+              "type": "youtube",
+              "students": [
+                "vijit"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drill 3 — Drop → Backhand Net Spin → Smash",
+          "description": "Multi-shuttle sequence: play the forehand cross-court drop, follow toward the backhand net, use a compact backhand net spin, then prepare to smash if the spin draws a lift.",
+          "students": [
+            "satvik",
+            "vijit"
+          ],
+          "notes": "The smash is conditional. First earn it with the drop and a good net spin. If the net spin draws a lift, then move behind the shuttle and attack.",
+          "videos": [
+            {
+              "title": "Round 1 — Drop, Backhand Net Spin, Smash Pattern",
+              "url": "https://youtu.be/0tojdUntFeo",
+              "type": "youtube",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            },
+            {
+              "title": "Round 2 — Drop, Backhand Net Spin, Smash Pattern",
+              "url": "https://youtu.be/cQfn5sIdgjQ",
+              "type": "youtube",
+              "students": [
+                "satvik",
+                "vijit"
+              ]
+            }
+          ]
+        }
+      ],
+      "tips": [
+        {
+          "text": "Smooth movement first; speed comes after the pattern is controlled.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        },
+        {
+          "text": "Satvik: shift your weight smoothly instead of adding an extra jump.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "Vijit: keep your upper body steady as your legs move.",
+          "students": [
+            "vijit"
+          ]
+        },
+        {
+          "text": "Follow the drop, prepare the net spin, and attack if the lift comes.",
+          "students": [
+            "satvik",
+            "vijit"
+          ]
+        }
+      ],
+      "videos": [],
+      "homework": [
+        {
+          "name": "Satvik — Smooth Rear-Court Footwork Without the Extra Jump",
+          "description": "Practice the rear-court footwork pattern slowly in a clear, safe space. Finish balanced and recover after each movement.",
+          "students": [
+            "satvik"
+          ],
+          "notes": "Shift your weight smoothly rather than adding an extra hop. Review your own footwork clip and notice where the extra jump appears.",
+          "videos": [
+            {
+              "title": "Satvik — Your Rear-Court Check-In Clip",
+              "url": "https://youtu.be/vMnc-8s1pSM",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vijit — Smooth Rear-Court Footwork Without the Upper-Body Dip",
+          "description": "Practice the rear-court footwork pattern slowly in a clear, safe space. Finish balanced and recover after each movement.",
+          "students": [
+            "vijit"
+          ],
+          "notes": "Keep your upper body steady while your legs move. Review your own footwork clip and notice where your upper body dips.",
+          "videos": [
+            {
+              "title": "Vijit — Your Rear-Court Check-In Clip",
+              "url": "https://youtu.be/wjSHQt1jM4s",
+              "type": "youtube",
+              "students": [
+                "vijit"
+              ]
+            }
+          ]
+        }
+      ],
+      "homeworkNote": "This week’s priority is footwork. Practice your own cue in short, controlled repetitions and review your check-in clip. Smooth movement before speed.",
+      "tags": [
+        "footwork",
+        "rear court",
+        "cross-court drop",
+        "backhand net spin",
+        "smash setup",
+        "multi-shuttle",
+        "recovery",
+        "homework"
       ]
     }
   ]

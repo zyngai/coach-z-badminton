@@ -28,6 +28,15 @@ test('Homework uses the existing session card shell and starts collapsed', () =>
   assert.match(html, /id="homework-library-title" class="session-card__title">Homework/)
 })
 
+test('Homework foregrounds deduplicated materials and retains secondary source notes', () => {
+  const html = render()
+  assert.equal((html.match(/class="homework-library__group"/g) || []).length, 13)
+  assert.match(html, /Current focus/)
+  assert.match(html, /Original cues &amp; source sessions/)
+  assert.match(html, /Open source session/)
+  assert.doesNotMatch(html, /grouped by session below/)
+})
+
 test('Homework renders no initial video iframes and remains tenant opt-in', () => {
   assert.doesNotMatch(render(), /<iframe\b/)
   assert.equal(render({}), '')

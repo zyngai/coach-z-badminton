@@ -6,15 +6,17 @@ import DrillItem from './DrillItem'
 import TipItem from './TipItem'
 import VideoEmbed from './VideoEmbed'
 
-export default function SessionCard({ session, students, activeStudent, suppressHomework = false }) {
+export default function SessionCard({ session, students, activeStudent, suppressHomework = false, forceOpen = false, onClearSelection }) {
   const isMatchAnalysis = session.entryType === 'match-analysis'
-  const [open, setOpen] = useState(false)
+  const [localOpen, setOpen] = useState(false)
+  const open = localOpen || forceOpen
 
   const drills = filterItems(session.drills || [], activeStudent)
   const tips = filterItems(session.tips || [], activeStudent)
   const videos = filterItems(session.videos || [], activeStudent)
   const homework = suppressHomework ? [] : filterItems(session.homework || [], activeStudent)
   const observations = filterItems(session.observations || [], activeStudent)
+  const hasTrainingPlan = Object.prototype.hasOwnProperty.call(session, 'trainingPlan')
 
   const homeworkSection = homework.length > 0 && (
     <div className="session-card__section session-card__homework">
@@ -32,8 +34,8 @@ export default function SessionCard({ session, students, activeStudent, suppress
   )
 
   return (
-    <article className={`session-card ${isMatchAnalysis ? 'session-card--match-analysis' : ''}`}>
-      <div className="session-card__header" onClick={() => setOpen(!open)}>
+    <article id={`session-${session.id}`} className={`session-card ${isMatchAnalysis ? 'session-card--match-analysis' : ''}`}>
+      <button type="button" className="session-card__header" aria-expanded={open} aria-controls={`session-${session.id}-content`} onClick={() => { setOpen(!open); onClearSelection?.() }}>
         <div className="session-card__header-left">
           {isMatchAnalysis && <div className="session-card__eyebrow">Tournament Match Analysis</div>}
           <div className="session-card__date">{session.dateLabel || formatDate(session.date)}</div>
@@ -50,15 +52,19 @@ export default function SessionCard({ session, students, activeStudent, suppress
         >
           <polyline points="6 9 12 15 18 9" />
         </svg>
-      </div>
+      </button>
 
-      <div className={`session-card__body ${open ? 'session-card__body--open' : ''}`}>
+      <div id={`session-${session.id}-content`} inert={!open} className={`session-card__body ${open ? 'session-card__body--open' : ''}`}>
         <div className="session-card__body-inner">
           <div className="session-card__content">
             {isMatchAnalysis && (
               <div className="session-card__match-comment">
                 <h3 className="session-card__section-title">Coach&apos;s Comment</h3>
-                <p>{session.coachComment || 'TBD'}</p>
+                {session.coachCommentBullets?.length > 0 ? (
+                  <ul className="session-card__review-bullets">
+                    {session.coachCommentBullets.map((bullet, i) => <li className="session-card__review-bullet" key={i}>{bullet}</li>)}
+                  </ul>
+                ) : <p>{session.coachComment || 'TBD'}</p>}
               </div>
             )}
 
@@ -136,7 +142,7 @@ export default function SessionCard({ session, students, activeStudent, suppress
               </div>
             )}
 
-            {isMatchAnalysis && (
+            {isMatchAnalysis && hasTrainingPlan && (
               <div className="session-card__match-plan">
                 <h3 className="session-card__section-title">Training Plan</h3>
                 <p>{session.trainingPlan || 'TBD'}</p>

@@ -12,6 +12,14 @@ export default function App() {
   const { data, loading, error } = useSessionData()
   const [activeStudent, setActiveStudent] = useState(null)
   const dash = data.dashboard || {}
+  const [openSections, setOpenSections] = useState({ coaching: false, tournaments: false })
+  const [selectedSession, setSelectedSession] = useState(null)
+  const toggleSection = id => setOpenSections(previous => ({ ...previous, [id]: !previous[id] }))
+  const revealSource = id => {
+    setOpenSections(previous => ({ ...previous, coaching: true }))
+    setSelectedSession(id)
+    setTimeout(() => document.getElementById(`session-${id}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 350)
+  }
 
   if (loading) {
     return (
@@ -49,12 +57,23 @@ export default function App() {
         sessions={data.sessions}
         students={data.students}
         activeStudent={activeStudent}
+        onRevealSource={revealSource}
       />
       <SessionList
-        sessions={data.sessions}
+        sessions={data.sessions.filter(s => s.entryType !== 'match-analysis')}
         students={data.students}
         activeStudent={activeStudent}
         suppressHomework={shouldSuppressSessionHomework(dash)}
+        title="Coaching Sessions" sectionId="coaching" open={openSections.coaching}
+        onToggle={() => toggleSection('coaching')} selectedSession={selectedSession}
+        onClearSelection={() => setSelectedSession(null)}
+      />
+      <SessionList
+        sessions={data.sessions.filter(s => s.entryType === 'match-analysis')}
+        students={data.students}
+        activeStudent={activeStudent}
+        title="Tournament Reviews" sectionId="tournaments" open={openSections.tournaments}
+        onToggle={() => toggleSection('tournaments')}
       />
     </>
   )

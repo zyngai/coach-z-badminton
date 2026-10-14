@@ -1,0 +1,15 @@
+button.session-card__header { width: 100%; border: 0; background: none; color: inherit; font: inherit; text-align: left; }
+.coaching-section { padding-top: 0; padding-bottom: 0; }
+.coaching-section__card { border-left: 3px solid #60a5fa; }
+.coaching-section--tournaments > .coaching-section__card { border-left-color: #a78bfa; }
+.coaching-section .session-card__content > .session-card:last-child { margin-bottom: 0; }
+.session-card__review-bullets { padding-left: 1.25rem; color: var(--color-text-secondary); }
+.session-card__review-bullet { margin-bottom: .7rem; line-height: 1.65; }
+.homework-library__priority { color: #6ee7b7; font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; }
+.homework-library__cues { padding-left: 1.2rem; color: var(--color-text-secondary); margin: .6rem 0; }
+.homework-library__sources { margin-top: .8rem; color: var(--color-text-secondary); font-size: .85rem; }
+.homework-library__sources summary { cursor: pointer; }
+.homework-library__source { padding: .75rem 0; border-top: 1px solid rgba(255,255,255,.08); }
+.homework-library__source p { margin: .4rem 0; line-height: 1.6; }
+.homework-library__source-link { border: 1px solid rgba(255,255,255,.18); border-radius: .4rem; background: transparent; color: #93c5fd; padding: .4rem .65rem; cursor: pointer; font: inherit; }
+.homework-library__summary .homework-library__session { overflow-wrap: anywhere; }

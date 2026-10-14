@@ -1,7 +1,8 @@
 {
   "dashboard": {
     "title": "Coach Z Badminton Training",
-    "subtitle": "Anamithraa — Session Notes & Drills"
+    "subtitle": "Anamithraa — Session Notes & Drills",
+    "homeworkLibrary": { "enabled": true, "suppressSessionHomework": true }
   },
   "students": [
     {
@@ -1015,6 +1016,43 @@
         "crossover steps",
         "leg drive",
         "gameplay"
+      ]
+    },
+    {
+      "id": "2026-10-03",
+      "date": "2026-10-03",
+      "dateLabel": "October 3–4, 2026",
+      "entryType": "match-analysis",
+      "title": "2026 Fortius South OLC Badminton Tournament",
+      "summary": "Progress since Junior Nationals, with seven clear points to take forward.",
+      "coachCommentBullets": [
+        "Progress: Your stronger, more comfortable clears are setting up drops that win points.",
+        "Punch clear: Add a faster attacking clear against opponents with strong drops; keep the high, deep clear when you need recovery time.",
+        "Overhead corner: Improve your footwork and positioning so you arrive balanced and recover cleanly.",
+        "Net play: Use a tighter spinning net shot to keep your advantage. Choose cross-court when the opponent’s position creates an opportunity.",
+        "Timing: Split-step around the opponent’s contact, then react. Do not commit to a direction before the shot.",
+        "Lifts and pushes: Use compact forearm and finger action rather than a large arm swing.",
+        "Shot choice: In the second game, cross-court drops and clears became too frequent. Mix straight and cross-court shots purposefully."
+      ],
+      "videos": [
+        {
+          "title": "Fortius OLC — Singles Match",
+          "url": "https://www.youtube.com/live/PjmuZfd2tIc?feature=shared",
+          "type": "youtube",
+          "students": [
+            "anamithraa"
+          ]
+        }
+      ],
+      "tags": [
+        "match play",
+        "tournament",
+        "clear",
+        "drop shot",
+        "footwork",
+        "net play",
+        "timing",
+        "shot selection"
       ]
     }
   ]

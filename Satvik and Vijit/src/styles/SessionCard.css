@@ -57,6 +57,7 @@
 .session-card__match-plan p {
   color: var(--color-text-secondary);
   font-style: italic;
+  white-space: pre-line;
 }
 
 .session-card__match-videos {

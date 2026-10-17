@@ -2675,6 +2675,117 @@
         "recovery",
         "homework"
       ]
+    },
+    {
+      "id": "2026-10-16",
+      "date": "2026-10-16",
+      "title": "Session 15 — Clear Quality & Playing with a Plan",
+      "students": [
+        "satvik"
+      ],
+      "homeworkFirst": true,
+      "takeaway": "Winning a point is not the same as playing a good rally. Focus on shot quality, purposeful placement and creating pressure—not just the score.",
+      "summary": "Satvik trained individually today: a footwork check-in, rear-court clears, then two games against Z. The priorities are consistent clear depth, adjusting after errors, and playing with a plan.",
+      "drills": [
+        {
+          "name": "Drill 1 — Footwork Check-In",
+          "description": "A regular check-in to keep movement efficient and reinforce good habits. No video recorded.",
+          "students": [
+            "satvik"
+          ],
+          "notes": "Footwork remains a priority: efficient movement supports balanced contact, shot quality and recovery.",
+          "videos": []
+        },
+        {
+          "name": "Drill 2 — Rear-Court Clears: Depth & Placement",
+          "description": "Choose straight or cross-court clears. Reach a useful depth, move the opponent and create pressure when possible.",
+          "students": [
+            "satvik"
+          ],
+          "notes": "Too many clears went out or landed around half-court. Notice the result and adjust the next shot rather than repeat the same error.",
+          "videos": [
+            {
+              "title": "Satvik — Rear-Court Clears",
+              "url": "https://youtu.be/g3zmOJvXHAc",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            }
+          ]
+        }
+      ],
+      "observations": [
+        {
+          "text": "Only a few rallies put Z under real pressure. Many points came from Z’s own errors, so the score alone does not show how effective your shots were.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "Enter rallies with a plan: choose a useful destination, watch the opponent’s reply and build the next shot from it—not simply improvise each hit.",
+          "students": [
+            "satvik"
+          ]
+        }
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "title": "Game 1 — Satvik vs Z",
+          "url": "https://youtu.be/q7QQ3JDp3YM",
+          "type": "youtube",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "title": "Game 2 — Satvik vs Z",
+          "url": "https://youtu.be/6bu91PpjUQc",
+          "type": "youtube",
+          "students": [
+            "satvik"
+          ]
+        }
+      ],
+      "homework": [
+        {
+          "name": "Watch Both Games — Shot Quality & Strategy",
+          "description": "Watch Game 1 and Game 2. Focus on the rally, not who won the point.",
+          "students": [
+            "satvik"
+          ],
+          "notes": "For each game, note one rally where your shots put Z under pressure and why; one poor shot choice and what you would choose instead; and one point won mainly through Z’s error—did your shots create that error? Come ready to explain one simple game plan you would use next time.",
+          "videos": [
+            {
+              "title": "Homework — Game 1: Satvik vs Z",
+              "url": "https://youtu.be/q7QQ3JDp3YM",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Homework — Game 2: Satvik vs Z",
+              "url": "https://youtu.be/6bu91PpjUQc",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            }
+          ]
+        }
+      ],
+      "homeworkNote": "Main priority: watch both games for shot quality, pressure and shot selection—not points won. Bring a simple game plan to the next lesson.",
+      "tags": [
+        "footwork",
+        "rear court",
+        "clear",
+        "shot selection",
+        "game sense",
+        "strategy",
+        "homework"
+      ]
     }
   ]
 }

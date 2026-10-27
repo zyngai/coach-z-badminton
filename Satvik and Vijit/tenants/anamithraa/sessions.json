@@ -2,7 +2,10 @@
   "dashboard": {
     "title": "Coach Z Badminton Training",
     "subtitle": "Anamithraa — Session Notes & Drills",
-    "homeworkLibrary": { "enabled": true, "suppressSessionHomework": true }
+    "homeworkLibrary": {
+      "enabled": true,
+      "suppressSessionHomework": true
+    }
   },
   "students": [
     {
@@ -1053,6 +1056,172 @@
         "net play",
         "timing",
         "shot selection"
+      ]
+    },
+    {
+      "id": "2026-10-23",
+      "date": "2026-10-23",
+      "title": "Session 7 — Cross-Court Clear Depth & the Net Spin",
+      "takeaway": "Fresh off the tournament, this session focused on driving the cross-court clear all the way to the rear-court corner and adding a new skill: the net spin. Most cross-court clears are still landing closer to midcourt, so depth is the next step — a deeper clear will unlock more of Anamithraa’s game. Rear-court footwork is the homework again.",
+      "summary": "Session 7 built directly on the tournament review. It began with straight and cross-court clears, then revisited rear-court footwork, where a few earlier habits resurfaced. Clears from both rear-court corners then put the clear and the footwork to the test together. The session finished with the proper technique for the net spin, a shot that helps move the opponent and create openings.",
+      "observations": [
+        {
+          "text": "The cross-court clear needs more depth: the majority landed closer to midcourt rather than in the rear-court corner.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "A deeper cross-court clear pushes the opponent into the rear-court corner and will unlock more of her game.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "In rear-court footwork, some earlier habits resurfaced: the body not staying low, a missing split step and push-off, and relying on shuffle steps to recover.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "The net spin is a new skill. Used well, it moves the opponent and helps her create her own opportunities.",
+          "students": [
+            "anamithraa"
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "name": "Drill 1 — Straight & Cross-Court Clears",
+          "description": "Clears hit straight and cross-court, aiming for the rear-court corners.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Aim the cross-court clear all the way into the back corner, not the middle. The cross-court path is longer than the straight one, so it needs full height and distance to get there.",
+          "videos": [
+            {
+              "title": "Cross-Court Clear",
+              "url": "https://youtu.be/e-GP6tlf0No",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drill 2 — Rear-Court Footwork",
+          "description": "A revisit of rear-court footwork to both corners, checking body height, the split step and push-off, and recovery.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Stay low throughout. Start every movement with a split step and a strong push-off, and recover toward the center with crossover or running steps instead of shuffling back.",
+          "videos": [
+            {
+              "title": "Rear-Court Footwork",
+              "url": "https://youtu.be/8Y5T8gWP4sM",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drill 3 — Rear-Court Clears from Both Corners",
+          "description": "Clears from both rear-court corners, putting the clear and the footwork to the test together.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Move into the corner with the footwork from Drill 2, send the clear deep, then recover toward the center and split step for the next shot.",
+          "videos": [
+            {
+              "title": "Rear-Court Clears — Both Corners",
+              "url": "https://youtu.be/mOqYzFKrpWY",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drill 4 — Net Spin",
+          "description": "An introduction to the proper technique for the net spin, a tight net shot that helps move the opponent and create openings.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Keep the net spin tight to the net. Use it to move your opponent and set up your next opportunity.",
+          "videos": [
+            {
+              "title": "Net Spin",
+              "url": "https://youtu.be/O-5LMuiYAO0",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        }
+      ],
+      "tips": [
+        {
+          "text": "Cross-court clear target: the rear-court corner, not midcourt.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Stay low, split step, push off — then move.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Recover with crossover or running steps, not shuffles.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "A tight net spin moves your opponent and creates your next chance.",
+          "students": [
+            "anamithraa"
+          ]
+        }
+      ],
+      "videos": [],
+      "homework": [
+        {
+          "name": "Rear-Court Corner Footwork — Both Sides",
+          "description": "Practice rear-court footwork to both corners again, using the Session 7 footwork video as a reference.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Focus on three habits: keep the body low, start with a split step and strong push-off, and recover toward the center with crossover or running steps instead of shuffling. Finish each repetition with a split step. Clean repetitions before speed.",
+          "videos": [
+            {
+              "title": "Rear-Court Footwork — Session 7",
+              "url": "https://youtu.be/8Y5T8gWP4sM",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        }
+      ],
+      "homeworkNote": "Main focus before the next session: rear-court footwork, again. Staying low, split stepping and pushing off, and recovering without shuffling are what make deep clears from both corners possible.",
+      "tags": [
+        "clear",
+        "cross-court",
+        "rear court",
+        "footwork",
+        "split step",
+        "push-off",
+        "recovery",
+        "net play",
+        "net spin"
       ]
     }
   ]

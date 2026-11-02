@@ -1223,6 +1223,168 @@
         "net play",
         "net spin"
       ]
+    },
+    {
+      "id": "2026-10-30",
+      "date": "2026-10-30",
+      "title": "Session 8 — Staying Low: Stable Footwork, Powerful Clears & Timing",
+      "takeaway": "After several sessions on the split step, this session focused on staying low by lowering the center of gravity. A low, stable base helps Anamithraa reach the shuttle on time and carry power into her clears. Against fast punch clears, her timing improved a lot once she waited for the hit before moving.",
+      "summary": "The session started with chasse steps to build a lower, more stable base, then applied it to clears. The rest of the session focused on handling faster punch (flat) clears to the rear court, an area Anamithraa wanted to work on.",
+      "observations": [
+        {
+          "text": "The split step, push-off and a low center of gravity are now the main things limiting her footwork, and holding back her clears.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "On clears, her body was still very tall when moving to the shuttle. She arrived late and lost power because it wasn't transferred before getting under the shuttle.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Against punch clears, she often moved before the shuttle was hit. Moving early with good intentions can get her tricked or cost her power and tension.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "When her timing was right, she needed no extra steps, and her clears were much more powerful and landed closer to the back of the court.",
+          "students": [
+            "anamithraa"
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "name": "Drill 1 — Chasse Step Drill",
+          "description": "Chasse steps with a lowered center of gravity, building stable, powerful footwork that also supports her clears.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Bend your knees and keep your body low the whole time. A low base makes every movement more stable and gives you power to push from.",
+          "videos": [
+            {
+              "title": "Chasse Step Drill",
+              "url": "https://youtu.be/4ODs5ULmNpE",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            },
+            {
+              "title": "Reference — Chasse Step Tutorial",
+              "url": "https://youtube.com/shorts/OtaNb4tWh0Y?si=RdBuHmtb0L7MPBQZ",
+              "type": "youtube",
+              "students": []
+            }
+          ]
+        },
+        {
+          "name": "Drill 2 — Clears",
+          "description": "Clears right after the chasse drill, to carry the low base into the stroke.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Stay low as you move to the shuttle. Getting there early lets you set up under it and transfer power into the clear.",
+          "videos": [
+            {
+              "title": "Rear-Court Clears",
+              "url": "https://youtu.be/gMNcP3MvADQ",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drill 3 — Handling Fast Punch Clears",
+          "description": "The coach fed fast, flat punch clears toward the rear court. Video 1: feeds to the forehand corner. Video 2: feeds closer to her, so only a directional split step and a jump were needed.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Wait for the hit. Directional split step as the shuttle is released, then chasse if needed, hop toward the shuttle, and hit it in the air. In Video 1 the chasse starts before the shuttle is released; in Video 2 the timing is much better.",
+          "videoLayout": "side-by-side",
+          "videos": [
+            {
+              "title": "Video 1 — Moving Too Early",
+              "url": "https://youtu.be/IQKg2fH59ac",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            },
+            {
+              "title": "Video 2 — Improved Timing",
+              "url": "https://youtu.be/Q7mqv55hKKs",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            }
+          ]
+        }
+      ],
+      "tips": [
+        {
+          "text": "Stay low: a lower center of gravity means more stable footwork and more power.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Punch clear pattern: directional split step → chasse → hop → hit it in the air.",
+          "students": [
+            "anamithraa"
+          ]
+        },
+        {
+          "text": "Don't move until the opponent hits. Good timing saves steps and adds power.",
+          "students": [
+            "anamithraa"
+          ]
+        }
+      ],
+      "videos": [],
+      "homework": [
+        {
+          "name": "Chasse Step Drill",
+          "description": "Practice the chasse step drill from Drill 1 with a low center of gravity.",
+          "students": [
+            "anamithraa"
+          ],
+          "notes": "Keep your knees bent and your body low through every repetition. Stay stable and controlled before adding speed.",
+          "videos": [
+            {
+              "title": "Chasse Step Drill — Session 8",
+              "url": "https://youtu.be/4ODs5ULmNpE",
+              "type": "youtube",
+              "students": [
+                "anamithraa"
+              ]
+            },
+            {
+              "title": "Reference — Chasse Step Tutorial",
+              "url": "https://youtube.com/shorts/OtaNb4tWh0Y?si=RdBuHmtb0L7MPBQZ",
+              "type": "youtube",
+              "students": []
+            }
+          ]
+        }
+      ],
+      "homeworkNote": "Main focus this week: the chasse step drill with a low center of gravity. Staying low is the base for faster footwork and more powerful clears.",
+      "tags": [
+        "footwork",
+        "chasse step",
+        "center of gravity",
+        "clear",
+        "punch clear",
+        "rear court",
+        "split step",
+        "timing"
+      ]
     }
   ]
 }

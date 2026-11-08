@@ -2786,6 +2786,150 @@
         "strategy",
         "homework"
       ]
+    },
+    {
+      "id": "2026-11-06",
+      "date": "2026-11-06",
+      "title": "Session 16 — From Lifting to Creating: Shot Choice & Net Pressure",
+      "students": [
+        "satvik"
+      ],
+      "takeaway": "Satvik often lifts during games instead of creating an opportunity at the net. The focus now is to recognize when a clear or lift is useful, and when an early net shot can pressure the opponent into lifting so he can attack.",
+      "summary": "Satvik began with two games, then worked through two restricted 1v1 drills: clear/lift-only with Z at the rear, followed by drop/net-only with Z at the front. Both drills required Satvik to cover the full court. We will continue building game sense through shot selection and placement.",
+      "observations": [
+        {
+          "text": "Satvik tends to lift frequently and seldom creates his own attack by reaching the net early and making the opponent lift.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "The next step is purposeful shot selection: recognize when to reset with a clear or lift, and when to use the net to create pressure rather than lifting automatically.",
+          "students": [
+            "satvik"
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "name": "Drill 1 — Opening Games",
+          "description": "The session started with games against Anu and Coach Henrik, providing footage for Satvik’s shot-selection homework.",
+          "students": [
+            "satvik"
+          ],
+          "videos": [
+            {
+              "title": "Game 1 — Satvik vs Anu",
+              "url": "https://youtu.be/hsiWWeg5Bg0",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Game 2 — Satvik vs Coach Henrik",
+              "url": "https://youtu.be/ZQF3Q1ApkL4",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drill 2 — Defending: Clears & Lifts Only",
+          "description": "Z covered only the rear court and could clear or drop. Satvik covered the full court and could return only clears or lifts.",
+          "students": [
+            "satvik"
+          ],
+          "notes": "Choose your rear-court destination deliberately. Use useful depth to move the coach and give yourself time to recover for the next shot.",
+          "videos": [
+            {
+              "title": "Satvik Defending — Clears & Lifts",
+              "url": "https://youtu.be/0OXwPavJfNU",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drill 3 — Attacking: Drops & Net Shots Only",
+          "description": "Z moved to the front court. Satvik still covered the full court, but could now play only drops or net shots.",
+          "students": [
+            "satvik"
+          ],
+          "notes": "Get to the net early enough to play with control. Choose placement to move the coach and encourage a lift instead of lifting automatically. In games, attack when the lift gives you a suitable opportunity.",
+          "videos": [
+            {
+              "title": "Satvik Attacking — Drops & Net Shots",
+              "url": "https://youtu.be/UzAHZpIywCI",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            }
+          ]
+        }
+      ],
+      "tips": [
+        {
+          "text": "A lift is a choice, not the automatic reply. Look for a controlled net option when you arrive early.",
+          "students": [
+            "satvik"
+          ]
+        },
+        {
+          "text": "Create the attack: use placement and net pressure to earn a useful lift.",
+          "students": [
+            "satvik"
+          ]
+        }
+      ],
+      "videos": [],
+      "homework": [
+        {
+          "name": "Review Your Games — Placement & Shot Selection",
+          "description": "Watch both opening games and identify shot placements or choices that got you into trouble.",
+          "students": [
+            "satvik"
+          ],
+          "notes": "For each example, note the timestamp, your shot and destination, and how the opponent’s reply put you under pressure. Explain what you would choose instead and why; look especially for an automatic lift when an earlier net shot was available. Bring your examples to the next lesson.",
+          "videos": [
+            {
+              "title": "Homework — Satvik vs Anu",
+              "url": "https://youtu.be/hsiWWeg5Bg0",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            },
+            {
+              "title": "Homework — Satvik vs Coach Henrik",
+              "url": "https://youtu.be/ZQF3Q1ApkL4",
+              "type": "youtube",
+              "students": [
+                "satvik"
+              ]
+            }
+          ]
+        }
+      ],
+      "homeworkNote": "This week: review both games for poor placement and shot choices, explain the consequence, and suggest a better option. Game sense will remain a focus in upcoming sessions.",
+      "tags": [
+        "game sense",
+        "shot selection",
+        "placement",
+        "clear",
+        "lift",
+        "drop shot",
+        "net play",
+        "attack setup",
+        "restricted singles",
+        "gameplay",
+        "homework"
+      ]
     }
   ]
 }

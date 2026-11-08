@@ -30,7 +30,7 @@ test('Homework uses the existing session card shell and starts collapsed', () =>
 
 test('Homework foregrounds deduplicated materials and retains secondary source notes', () => {
   const html = render()
-  assert.equal((html.match(/class="homework-library__group"/g) || []).length, 13)
+  assert.equal((html.match(/class="homework-library__group"/g) || []).length, 15)
   assert.match(html, /Current focus/)
   assert.match(html, /Original cues &amp; source sessions/)
   assert.match(html, /Open source session/)
